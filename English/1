@@ -2,34 +2,34 @@
   "questions": [
     {
       "questionId": 1,
-      "questionMatrix": "X,X,X,X,X,X,X,X,X,X,X,S,X,X,X,K,A,S,E,X,X,X,A,X,X,L,X,X,X,L,X,K,A,S,X,X,E,X,X,X,X,X,X,X,X,X,X,X,X",
+      "questionMatrix": "X,X,X,X,D,X,X,X,S,W,O,R,D,X,X,X,O,X,O,X,X,X,X,R,O,W,X,X,X,X,D ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
       
-      "letters": "K,A,S,E,L",
+      "letters": "S,D,O,W,R",
       "colorBombIndex" :-1,
-      "verticalBombIndex":17,
+      "verticalBombIndex":10,
       "horizontalBombIndex":-1,
       "localBombIndex": -1,
       "chocolateIndexes":[],
       "time":-1,
       "words":[
           {
-            "word" : "KASE",
-            "index" : 15,
+            "word" : "SWORD",
+            "index" : 8,
             "direction": 0
            },
            {
-            "word" : "KALE",
-            "index" : 15,
+            "word" : "DROW",
+            "index" : 4,
             "direction": 1
            },
            {
-            "word" : "SELA",
-            "index" : 11,
+            "word" : "WORD",
+            "index" : 9,
             "direction": 1
            },
            {
-            "word" : "KAS",
-            "index" : 31,
+            "word" : "ROW",
+            "index" : 23,
             "direction": 0
            }
       ]
