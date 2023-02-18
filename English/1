@@ -133,45 +133,35 @@
     },
     {
       "questionId": 5,
-      "questionMatrix": "X,X,X,X,X,X,X,X,X,K,X,K,X,X,X,K,A,Z,I,K,X,X,X,Z,X,Z,X,K,A,Z,I,X,A,X,I,X,X,X,X,K,A,Z,X,X,X,X,X,X,X",
+      "questionMatrix": "X,X,X,B,A,R,K,X,X,X,R,X,X,X,X,X,B,E,A,R,X,X,X,X,A,X,X,X,X,B,A,K,E,R,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
       
       "letters": "K,A,K,Z,I",
-      "colorBombIndex" :18,
-      "verticalBombIndex":-1,
-      "horizontalBombIndex":23,
+      "colorBombIndex" :3,
+      "verticalBombIndex":19,
+      "horizontalBombIndex":-1,
       "localBombIndex": -1,
       "chocolateIndexes":[],
       "time":-1,
       "words":[
           {
-            "word" : "KAZI",
-            "index" : 9,
+            "word" : "BREAK",
+            "index" : 3,
             "direction": 1
            },
            {
-            "word" : "KAZIK",
-            "index" : 15,
+            "word" : "BEAR",
+            "index" : 16,
             "direction": 0
            },
            {
-            "word" : "AZI",
-            "index" : 28,
+            "word" : "BARK",
+            "index" : 3,
             "direction": 0
            },
            {
-            "word" : "KIZAK",
-            "index" : 11,
-            "direction": 1
-           },
-           {
-            "word" : "KAZ",
-            "index" : 39,
+            "word" : "BAKER",
+            "index" : 29,
             "direction": 0
-           },
-           {
-            "word" : "KIZ",
-            "index" : 27,
-            "direction": 1
            }
       ]
     },
