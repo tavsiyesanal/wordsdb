@@ -41,7 +41,7 @@
       "letters": "P,T,N,R,I",
       "colorBombIndex" :-1,
       "verticalBombIndex":-1,
-      "horizontalBombIndex":16,
+      "horizontalBombIndex":19,
       "localBombIndex": -1,
       "chocolateIndexes":[],
       "time":-1,
