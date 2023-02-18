@@ -167,7 +167,7 @@
     },
     {
       "questionId": 6,
-      "questionMatrix": "X,X,X,X,X,X,X,X,X,L,O,A,N,X,X,X,A,X,L,X,X,X,X,N,X,O,N,E,X,L,E,A,N,X,X,X,X,X,X,E,X,X,X,X,X,X,X,X,X"
+      "questionMatrix": "X,X,X,X,X,X,X,X,X,L,O,A,N,X,X,X,A,X,L,X,X,X,X,N,X,O,N,E,X,L,E,A,N,X,X,X,X,X,X,E,X,X,X,X,X,X,X,X,X",
       
       "letters": "L,E,N,A,O",
       "colorBombIndex" :-1,
