@@ -297,97 +297,97 @@
       "questionId": 9,
       "questionMatrix": "X,X,X,X,X,X,X,X,P,A,C,E,X,X,X,E,X,H,X,A,X,C,A,P,E,X,C,X,A,X,X,A,P,E,X,P,X,X,P,X,X,X,X,X,X,X,X,X,X",
       
-      "letters": "K,R,O,U,K",
-      "colorBombIndex" :2,
-      "verticalBombIndex":-1,
-      "horizontalBombIndex":23,
+      "letters": "C,H,P,E,A",
+      "colorBombIndex" :24,
+      "verticalBombIndex":9,
+      "horizontalBombIndex":15,
       "localBombIndex": -1,
       "chocolateIndexes":[],
       "time":-1,
       "words":[
           {
-            "word" : "KOKU",
-            "index" : 2,
+            "word" : "PACE",
+            "index" : 8,
             "direction": 0
            },
            {
-            "word" : "KORUK",
-            "index" : 2,
+            "word" : "PEA",
+            "index" : 8,
             "direction": 1
            },
            {
-            "word" : "KUR",
-            "index" : 14,
+            "word" : "CHEAP",
+            "index" : 10,
             "direction": 1
            },
            {
-            "word" : "KOR",
-            "index" : 14,
+            "word" : "APE",
+            "index" : 31,
             "direction": 0
            },
            {
-            "word" : "KORKU",
-            "index" : 30,
+            "word" : "ACE",
+            "index" : 19,
+            "direction": 1
+           },
+           {
+            "word" : "CAP",
+            "index" : 21,
+            "direction": 1
+           },
+           {
+            "word" : "CAPE",
+            "index" : 21,
             "direction": 0
-           },
-           {
-            "word" : "OKUR",
-            "index" : 20,
-            "direction": 1
-           },
-           {
-            "word" : "KORU",
-            "index" : 18,
-            "direction": 1
            }
       ]
     },
     {
       "questionId": 10,
-      "questionMatrix": "X,X,X,X,X,X,X,K,Ü,L,A,H,X,K,X,X,X,X,A,K,Ü,X,X,X,X,L,X,L,X,X,H,A,K,X,X,X,X,A,X,X,X,X,K,A,L,X,X,X,X",
+      "questionMatrix": "X,X,X,L,I,D,X,X,X,X,X,X,A,X,X,D,X,L,A,I,D,X,I,X,A,X,L,X,X,A,X,D,A,Y,X,X,L,A,Y,X,X,X,X,X,X,X,X,X,X",
       
-      "letters": "Ü,L,K,A,H",
+      "letters": "D,A,I,Y,L",
       "colorBombIndex" :-1,
-      "verticalBombIndex":31,
-      "horizontalBombIndex":25,
-      "localBombIndex": -1,
-      "chocolateIndexes":[20,37],
-      "time":20,
+      "verticalBombIndex":32,
+      "horizontalBombIndex":24,
+      "localBombIndex": 19,
+      "chocolateIndexes":[22,17],
+      "time":30,
       "words":[
           {
-            "word" : "KÜLAH",
-            "index" : 7,
-            "direction": 0
-           },
-           {
-            "word" : "HALK",
-            "index" : 11,
+            "word" : "DAILY",
+            "index" : 5,
             "direction": 1
            },
            {
-            "word" : "KÜL",
-            "index" : 13,
+            "word" : "DAY",
+            "index" : 31,
+            "direction": 0
+           },
+           {
+            "word" : "LID",
+            "index" : 3,
+            "direction": 0
+           },
+           {
+            "word" : "LAID",
+            "index" : 17,
+            "direction": 0
+           },
+           {
+            "word" : "DIAL",
+            "index" : 15,
             "direction": 1
            },
            {
-            "word" : "HAK",
-            "index" : 30,
+            "word" : "LAY",
+            "index" : 36,
             "direction": 0
            },
            {
-            "word" : "HAL",
-            "index" : 30,
+            "word" : "LADY",
+            "index" : 17,
             "direction": 1
-           },
-           {
-            "word" : "KAL",
-            "index" : 42,
-            "direction": 0
-           },
-           {
-            "word" : "AKÜ",
-            "index" : 18,
-            "direction": 0
            }
       ]
     }
