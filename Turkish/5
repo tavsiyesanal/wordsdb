@@ -140,45 +140,37 @@
       ]
     },
     {
-      "questionId": 35,
-      "questionMatrix":"X,X,X,X,X,X,X,X,Z,İ,N,C,İ,R,X,X,N,X,X,Z,X,X,X,C,X,X,İ,Z ,X,X,İ,R,İ,N,X,X,X,R,X,R,X,X,X,X,X,X,İ ,X,X",
+      "questionId": 45,
+      "questionMatrix":"X,X,Z,X,Z,X,X,X,N,A,M,A,Z,X,X,X,M,X,M,X,X,X,M,A,N,A,X,X,X,X,N,X,N,X,X,X,X,E,X,X,X,X,X,X,X,X,X,X,X",
       
-      "letters": "C,İ,R,İ,N,Z",
+      "letters": "Z,A,N,M,A,E",
       "colorBombIndex" :9,
       "verticalBombIndex":-1,
-      "horizontalBombIndex":33,
-      "localBombIndex": -1,
+      "horizontalBombIndex":11,
+      "localBombIndex": 11,
+      "chocolate":[37],
+      "time":25,
       "words":[
           {
-            "word" : "ZİNCİR",
+            "word" : "ZAMAN",
+            "index" : 4,
+            "direction": 0
+           },
+           {
+            "word" : "NAMAZ",
             "index" : 8,
             "direction": 0
            },
            {
-            "word" : "İNCİR",
-            "index" : 9,
+            "word" : "ZAMANE",
+            "index" : 2,
             "direction": 1
            },
            {
-            "word" : "İRİN",
-            "index" : 30,
+            "word" : "MANA",
+            "index" : 22,
             "direction": 0
-           },
-           {
-            "word" : "İRİ",
-            "index" : 32,
-            "direction": 1
-           },
-           {
-            "word" : "İZİN",
-            "index" : 12,
-            "direction": 1
-           },
-           {
-            "word" : "İZ",
-            "index" : 26,
-            "direction": 0
-           },
+           }
       ]
     },
     {
