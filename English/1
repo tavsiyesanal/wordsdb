@@ -36,33 +36,28 @@
     },
     {
       "questionId": 2,
-      "questionMatrix": "X,X,X,X,X,X,X,X,X,X,X,X,A,X,X,B,A,L,I,K,X,X,X,K,X,X,I,X,X,K,I,L,X,X,X,X,X,L,X,X,X,X,X,X,X,X,X,X,X",
+      "questionMatrix": "X,X,T,X,X,X,X,X,P,R,I,N,T,X,X,X,I,X,X,I,X,X,X,P,X,X,P,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
       
-      "letters": "A,B,K,I,L",
+      "letters": "P,T,N,R,I",
       "colorBombIndex" :-1,
       "verticalBombIndex":-1,
-      "horizontalBombIndex":23,
+      "horizontalBombIndex":16,
       "localBombIndex": -1,
       "chocolateIndexes":[],
       "time":-1,
       "words":[
           {
-            "word" : "BALIK",
-            "index" : 15,
-            "direction": 0
-           },
-           {
-            "word" : "KIL",
-            "index" : 29,
-            "direction": 0
-           },
-           {
-            "word" : "AKIL",
-            "index" : 16,
+            "word" : "TRIP",
+            "index" : 2,
             "direction": 1
            },
            {
-            "word" : "AKI",
+            "word" : "PRINT",
+            "index" : 8,
+            "direction": 0
+           },
+           {
+            "word" : "TIP",
             "index" : 12,
             "direction": 1
            }
@@ -70,44 +65,44 @@
     },
     {
       "questionId": 3,
-      "questionMatrix": "X,X,X,X,X,X,X,X,X,X,O,X,X,X,X,X,X,R,X,O,X,X,R,O,M,A,N,X,X,X,X,A,X,A,X,X,X,X,N,A,R,X,X,X,X,X,X,X,X",
+      "questionMatrix": "X,X,X,H,X,P,X,X,P,H,O,N,E,X,X,X,X,P,X,N,X,X,O,P,E,N,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
       
-      "letters": "R,O,N,A,M",
+      "letters": "P,H,O,E,N",
       "colorBombIndex" : -1,
       "verticalBombIndex":-1,
       "horizontalBombIndex":-1,
-      "localBombIndex": 24,
+      "localBombIndex": 10,
       "chocolateIndexes":[],
       "time":-1,
       "words":[
           {
-            "word" : "ROMAN",
+            "word" : "PHONE",
+            "index" : 8,
+            "direction": 0
+           },
+           {
+            "word" : "HOPE",
+            "index" : 3,
+            "direction": 1
+           },
+           {
+            "word" : "OPEN",
             "index" : 22,
             "direction": 0
            },
            {
-            "word" : "ORMAN",
-            "index" : 10,
+            "word" : "PEN",
+            "index" : 5,
             "direction": 1
-           },
-           {
-            "word" : "ONAR",
-            "index" : 19,
-            "direction": 1
-           },
-           {
-            "word" : "NAR",
-            "index" : 38,
-            "direction": 0
            }
       ]
     },
     {
       "questionId": 4,
-      "questionMatrix": "X,X,X,X,X,X,X,X,Y,A,K,I,T,X,X,X,T,X,X,A,X,X,X,I,X,X,K,X,X,X,K,A,T,I,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
+      "questionMatrix": "X,X,A,X,X,X,X,X,A,N,G,L,E,X,X,X,G,X,E,X,X,X,X,E,X,A,G,E,X,X,L,X,N,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
       
-      "letters": "Y,A,T,I,K",
-      "colorBombIndex" :30,
+      "letters": "A,E,N,G,L",
+      "colorBombIndex" :9,
       "verticalBombIndex":-1,
       "horizontalBombIndex":-1,
       "localBombIndex": -1,
@@ -115,24 +110,24 @@
       "time":-1,
       "words":[
           {
-            "word" : "YAKIT",
+            "word" : "ANGEL",
+            "index" : 2,
+            "direction": 1
+           },
+           {
+            "word" : "ANGLE",
             "index" : 8,
             "direction": 0
            },
            {
-            "word" : "ATIK",
-            "index" : 9,
+            "word" : "LEAN",
+            "index" : 11,
             "direction": 1
            },
            {
-            "word" : "KATI",
-            "index" : 30,
+            "word" : "AGE",
+            "index" : 25,
             "direction": 0
-           },
-           {
-            "word" : "TAKI",
-            "index" : 12,
-            "direction": 1
            }
       ]
     },
