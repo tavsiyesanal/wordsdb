@@ -43,43 +43,43 @@
       ]
     },
     {
-      "questionId": 42,
-      "questionMatrix": "X,X,T,X,X,X,X,X,T,A,B,L,A,X,X,X,B,X,X,B,X,A,L,E,T,X,L,X,X,X,L,X,B,A,L,E,B,A,T,X,X,X,X,X,X,X,X,X,X",
+      "questionId": 52,
+      "questionMatrix": "X,X,X,X,P,E,K,X,T,E,K,E,X,X,X,X,T,X,T,E ,K,X,T,E,P,E,X,E,X,X,K,X,K,X,P,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
       
-      "letters": "T,A,B,L,A,E",
-      "colorBombIndex" :-1,
+      "letters": "T,E,K,P,E",
+      "colorBombIndex" :18,
       "verticalBombIndex":10,
-      "horizontalBombIndex":16,
+      "horizontalBombIndex":-1,
       "localBombIndex": 23,
       "words":[
           {
-            "word" : "TABELA",
-            "index" : 2,
-            "direction": 1
-           },
-           {
-            "word" : "TABLA",
-            "index" : 8,
+            "word" : "TEPE",
+            "index" : 22,
             "direction": 0
            },
            {
-            "word" : "ALET",
-            "index" : 21,
-            "direction": 0
-           },
-           {
-            "word" : "ABLA",
-            "index" : 12,
+            "word" : "ETEK",
+            "index" : 9,
             "direction": 1
            },
            {
-            "word" : "BAL",
+            "word" : "PETEK",
+            "index" : 4,
+            "direction": 1
+           },
+           {
+            "word" : "KEP",
+            "index" : 20,
+            "direction": 1
+           },
+           {
+            "word" : "4",
             "index" : 32,
             "direction": 0
            },
            {
-            "word" : "EBAT",
-            "index" : 35,
+            "word" : "TEKE",
+            "index" : 8,
             "direction": 0
            }
       ]
