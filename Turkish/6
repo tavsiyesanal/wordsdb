@@ -86,32 +86,52 @@
     },
     {
       "questionId": 43,
-      "questionMatrix": "X,B,X,T,X,X,X,X,İ,T,A,A,T,X,X,A,X,B,X,X,X,X,T,X,İ,X,X,X,X,X,T,A,B,İ,X,X,X,X,T,X,X,X,X,X,X,X,X,X,X",
+      "questionMatrix": "X,X,X,P,U,M,A,K,U,P,A,X,X,X,X,X,X,M,X,K,X,K,A,M,U,X,U,X,A,X,X,K,A,M,P,P,A,K,X,X,X,X,X,X,X,X,X,X,X",
       
-      "letters": "T,B,İ,A,A,T",
+      "letters": "P,U,M,A,K",
       "colorBombIndex":10,
-      "verticalBombIndex":12,
-      "horizontalBombIndex":-1,
-      "localBombIndex": 31,
+      "verticalBombIndex":22,
+      "horizontalBombIndex":17,
+      "localBombIndex": 33,
       "words":[
           {
-            "word" : "İTAAT",
-            "index" : 8,
-            "direction": 0
-           },
-           {
-            "word" : "TABİ",
-            "index" : 30,
-            "direction": 0
-           },
-           {
-            "word" : "BİAT",
-            "index" : 1,
+            "word" : "PAMUK",
+            "index" : 3,
             "direction": 1
            },
            {
-            "word" : "TABİAT",
+            "word" : "KAMU",
+            "index" : 21,
+            "direction": 0
+           },
+           {
+            "word" : "KUPA",
+            "index" : 7,
+            "direction": 0
+           },
+           {
+            "word" : "PAK",
+            "index" : 35,
+            "direction": 0
+           },
+           {
+            "word" : "KAP",
+            "index" : 21,
+            "direction": 1
+           },
+           {
+            "word" : "PUMA",
             "index" : 3,
+            "direction": 0
+           },
+           {
+            "word" : "KAMP",
+            "index" : 31,
+            "direction": 0
+           },
+           {
+            "word" : "KUM",
+            "index" : 19,
             "direction": 1
            }
       ]
