@@ -1,0 +1,349 @@
+{
+  "questions": [
+    {
+      "questionId": 41,
+      "questionMatrix":"X,D,X,K,X,X,X,X,Ö,D,E,N,E,K,X,N,X,N,X,X,X,D,E,N,E,K,X,X,X,K,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
+      
+      "letters": "D,Ö,E,N,E,K",
+      "colorBombIndex" :-1,
+      "verticalBombIndex":-1,
+      "horizontalBombIndex":15,
+      "localBombIndex": 10,
+      "words":[
+          {
+            "word" : "DÖNEK",
+            "index" : 1,
+            "direction": 1
+           },
+           {
+            "word" : "ÖDENEK",
+            "index" : 8,
+            "direction": 0
+           },
+           {
+            "word" : "KENE",
+            "index" : 3,
+            "direction": 1
+           },
+           {
+            "word" : "DENEK",
+            "index" : 21,
+            "direction": 0
+           }
+      ]
+    },
+    {
+      "questionId": 42,
+      "questionMatrix": "X,X,T,X,X,X,X,X,T,A,B,L,A,X,X,X,B,X,X,B,X,A,L,E,T,X,L,X,X,X,L,X,B,A,L,E,B,A,T,X,X,X,X,X,X,X,X,X,X",
+      
+      "letters": "T,A,B,L,A,E",
+      "colorBombIndex" :-1,
+      "verticalBombIndex":10,
+      "horizontalBombIndex":16,
+      "localBombIndex": 23,
+      "words":[
+          {
+            "word" : "TABELA",
+            "index" : 2,
+            "direction": 1
+           },
+           {
+            "word" : "TABLA",
+            "index" : 8,
+            "direction": 0
+           },
+           {
+            "word" : "ALET",
+            "index" : 21,
+            "direction": 0
+           },
+           {
+            "word" : "ABLA",
+            "index" : 12,
+            "direction": 1
+           },
+           {
+            "word" : "BAL",
+            "index" : 32,
+            "direction": 0
+           },
+           {
+            "word" : "EBAT",
+            "index" : 35,
+            "direction": 0
+           }
+      ]
+    },
+    {
+      "questionId": 33,
+      "questionMatrix": "X,X,X,X,X,X,X,X,X,M,X,X,X,K,X,K,A,T,M,E,R,X,X,R,X,X,X,E,X,X,K,X,X,X,M ,X,T,E,M,A ,X,X,X,X,T ,X,X,X,X",
+      
+      "letters": "T,E,M,K,A,R",
+      "colorBombIndex" :16,
+      "verticalBombIndex":20,
+      "horizontalBombIndex":-1,
+      "localBombIndex": -1,
+      "words":[
+          {
+            "word" : "KATMER",
+            "index" : 15,
+            "direction": 0
+           },
+           {
+            "word" : "MARKET",
+            "index" : 9,
+            "direction": 1
+           },
+           {
+            "word" : "TEMA",
+            "index" : 36,
+            "direction": 0
+           },
+           {
+            "word" : "KREM",
+            "index" : 13,
+            "direction": 1
+           }
+           
+      ]
+    },
+    {
+    "questionId": 34,
+      "questionMatrix": "X,X,X,X,X,X,X,X,X,T,X,X,X,X,X,T,E,K,E,R,X,X,X,K,X,R,X,X,X,X,İ,R ,İ,X,X,X,X,R,X,K,X,X,X,X,X,X,X,X,X",
+      
+      "letters": "T,E,R,İ,K,E",
+      "colorBombIndex" :-1,
+      "verticalBombIndex":8,
+      "horizontalBombIndex":-1,
+      "localBombIndex": -1,
+      "words":[
+          {
+            "word" : "TEKER",
+            "index" : 8,
+            "direction": 0
+           },
+           {
+            "word" : "TEKİR",
+            "index" : 10,
+            "direction": 1
+           },
+          
+            "word" : "ERİK",
+            "index" : 35,
+            "direction": 0
+           },
+           {
+            "word" : "ETEK",
+            "index" : 11,
+            "direction": 1
+           }
+          
+      ]
+    },
+    {
+      "questionId": 35,
+      "questionMatrix":"X,X,X,X,X,X,X,X,Z,İ,N,C,İ,R,X,X,N,X,X,Z,X,X,X,C,X,X,İ,Z ,X,X,İ,R,İ,N,X,X,X,R,X,R,X,X,X,X,X,X,İ ,X,X",
+      
+      "letters": "C,İ,R,İ,N,Z",
+      "colorBombIndex" :9,
+      "verticalBombIndex":-1,
+      "horizontalBombIndex":33,
+      "localBombIndex": -1,
+      "words":[
+          {
+            "word" : "ZİNCİR",
+            "index" : 8,
+            "direction": 0
+           },
+           {
+            "word" : "İNCİR",
+            "index" : 9,
+            "direction": 1
+           },
+           {
+            "word" : "İRİN",
+            "index" : 30,
+            "direction": 0
+           },
+           {
+            "word" : "İRİ",
+            "index" : 32,
+            "direction": 1
+           },
+           {
+            "word" : "İZİN",
+            "index" : 12,
+            "direction": 1
+           },
+           {
+            "word" : "İZ",
+            "index" : 26,
+            "direction": 0
+           },
+      ]
+    },
+    {
+      "questionId": 36,
+      "questionMatrix": "X,X,X,X,X,X,X,X,A,S,K,E,R,X,X,K,X,A,X,X,X,X,S,E,R,A,X,X,X,İ,X,E ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
+      
+      "letters": "K,E,R,S,A,İ",
+      "colorBombIndex" :23,
+      "verticalBombIndex":-1,
+      "horizontalBombIndex":24,
+      "localBombIndex": -1,
+      "words":[
+          {
+            "word" : "ASKER",
+            "index" : 8,
+            "direction": 0
+           },
+           {
+            "word" : "AKSİ",
+            "index" : 8,
+            "direction": 1
+           },
+           {
+            "word" : "KARE",
+            "index" : 10,
+            "direction": 1
+           },
+           {
+            "word" : "SERA",
+            "index" : 22,
+            "direction": 0
+           }
+      ]
+    },{
+      "questionId": 37,
+      "questionMatrix": "X,X,X,X,X,X,X,X,X,K,X,X,X,X,X,K,A,S,K,E,T,X,X,S,X,X,X,A,X,K,E,K ,X,X,K,X,X,T,X,X,X,K,X,X,X,X,X,X,E ",
+      
+      "letters": "K,E,T,S,A,K",
+      "colorBombIndex" :30,
+      "verticalBombIndex":-1,
+      "horizontalBombIndex":16,
+      "localBombIndex": -1,
+      "words":[
+          {
+            "word" : "KASKET",
+            "index" : 15,
+            "direction": 0
+           },
+           {
+            "word" : "KASET",
+            "index" : 9,
+            "direction": 1
+           },
+           {
+            "word" : "KEK",
+            "index" : 29,
+            "direction": 0
+           },
+           {
+            "word" : "TAKKE",
+            "index" : 20,
+            "direction": 1
+           }
+      ]
+    },
+    {
+      "questionId": 38,
+      "questionMatrix": "X,X,X,X,X,X,X,X,X,M,X,X,A,X,X,K,E,M,A,N,X,X,X,K,X,X,İ,X,X,X,A,N,E,M,İ,X,X,N,X,X,E,X,X,X,X,X,X,X,X",
+      
+      "letters": "K,A,M,E,N,İ",
+      "colorBombIndex" :16,
+      "verticalBombIndex":17,
+      "horizontalBombIndex":-1,
+      "localBombIndex": -1,
+      "words":[
+          {
+            "word" : "KEMAN",
+            "index" : 15,
+            "direction": 1
+           },
+           {
+            "word" : "MEKAN",
+            "index" : 9,
+            "direction": 1
+           },
+           {
+            "word" : "ANİME",
+            "index" : 12,
+            "direction": 1
+           },
+           {
+            "word" : "ANEMİ",
+            "index" : 30,
+            "direction": 0
+           }
+      ]
+    },{
+      "questionId": 39,
+      "questionMatrix": "X,X,X,X,X,X,X,X,X,K,X,X,S,X,X,K,A,N,S,E,R,X,X,R ,X,X,R,X,X,S,E ,R ,X,A ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
+      
+      "letters": "A,K,S,N,E,R",
+      "colorBombIndex" :16,
+      "verticalBombIndex":-1,
+      "horizontalBombIndex":-1,
+      "localBombIndex": -1,
+      "words":[
+          {
+            "word" : "KANSER",
+            "index" : 15,
+            "direction": 0
+           },
+           {
+            "word" : "SER",
+            "index" : 29,
+            "direction": 0
+           },
+           {
+            "word" : "SERA",
+            "index" : 12,
+            "direction": 1
+           },
+           {
+            "word" : "KARE",
+            "index" : 9,
+            "direction": 1
+           }
+      ]
+    },
+    {
+      "questionId": 40,
+      "questionMatrix": "X,X,X,X,X,X,X,X,İ,L,L,E,T,X,X,X,İ,X,L,X,X,X,X,S,İ,T,E,X,X,X,T,X,İ ,X,X,X,S,E,L ,X,X,X,X,X,X,X,X,X,X",
+      
+      "letters": "L,L,İ,E,T,S",
+      "colorBombIndex" :23,
+      "verticalBombIndex":24,
+      "horizontalBombIndex":16,
+      "localBombIndex": -1,
+      "words":[
+          {
+            "word" : "LİSTE",
+            "index" : 9,
+            "direction": 1
+           },
+           {
+            "word" : "İLLET",
+            "index" : 8,
+            "direction": 0
+           },
+           {
+            "word" : "SİTE",
+            "index" : 23,
+            "direction": 0
+           },
+           {
+            "word" : "SEL",
+            "index" : 36,
+            "direction": 0
+           },
+           {
+            "word" : "ELTİ",
+            "index" : 11,
+            "direction": 1
+           }
+      ]
+    }
+  ]
+}
