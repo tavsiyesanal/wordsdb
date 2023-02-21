@@ -287,128 +287,128 @@
       ]
     },
     {
-      "questionId": 48,
-      "questionMatrix": "K,A,R,X,X,X,K,A,X,X,K,E,Z,A,Z,A,R,X,R,X,R,X,R,X,X,Z,X,E,X,Z,E,K,A,X,X,X,X,X,X,K,E,Z,X,X,X,X,X,X,X",
+      "questionId": 58,
+      "questionMatrix": "X,X,M,X,E,X,X,X,M,E,Y,D,A,N,X,X,D,X,A,X,E,X,X,Y,X,X,X,M,X,N,A,M,E,X,A,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
       
-      "letters": K,Z,E,A,R",
-      "colorBombIndex" :32,
-      "verticalBombIndex":2,
-      "horizontalBombIndex":22,
-      "localBombIndex": -1,
+      "letters": D,E,M,Y,A,N",
+      "colorBombIndex" :-1,
+      "verticalBombIndex":-1,
+      "horizontalBombIndex":-1,
+      "localBombIndex": 11,
       "words":[
           {
-            "word" : "KAR",
-            "index" : 0,
+            "word" : "MEYDAN",
+            "index" : 8,
             "direction": 0
            },
            {
-            "word" : "ZAR",
-            "index" : 14,
-            "direction": 0
-           },
-           {
-            "word" : "KAZ",
-            "index" : 0,
+            "word" : "MEDYA",
+            "index" : 2,
             "direction": 1
            },
            {
-            "word" : "ARZ",
-            "index" : 15,
-            "direction": 1
-           },
-           {
-            "word" : "ZEKA",
+            "word" : "NAME",
             "index" : 29,
-            "direction": 0
-           },
-           {
-            "word" : "KEZ",
-            "index" : 39,
-            "direction": 0
-           },
-           {
-            "word" : "KARE",
-            "index" : 6,
             "direction": 1
            },
            {
-            "word" : "KEZA",
-            "index" : 10,
-            "direction": 0
+            "word" : "EDA",
+            "index" : 4,
+            "direction": 1
            },
            {
-            "word" : "ERZAK",
-            "index" : 11,
+            "word" : "NEMA",
+            "index" : 13,
             "direction": 1
            }
       ]
     },{
-      "questionId": 49,
-      "questionMatrix": "X,K,X,İ,X,X,X,X,İ,K,L,İ,M,X,X,L,X,M,X,X,X,X,İ,L,İ,M,X,X,X,M,X,K,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
+      "questionId": 50,
+      "questionMatrix": "V,A,L,İ,X,X,X,X,X,X,L,X,X,V,V,X,X,A,İ,L,E,A,L,E,V,X,X,L,L,X,X,E,V,L,İ,E,X,X,X,X,X,X,X,X,X,X,X,X,X",
       
-      "letters": "İ,M,L,İ,K",
-      "colorBombIndex" :24,
-      "verticalBombIndex":-1,
-      "horizontalBombIndex":15,
-      "localBombIndex": 10,
+      "letters": "V,L,A,E,İ",
+      "colorBombIndex" :-1,
+      "verticalBombIndex":2,
+      "horizontalBombIndex":13,
+      "localBombIndex": -1,
       "words":[
           {
-            "word" : "KİLİM",
-            "index" : 1,
-            "direction": 1
-           },
-           {
-            "word" : "İLİM",
-            "index" : 22,
+            "word" : "VALİ",
+            "index" : 0,
             "direction": 0
            },
            {
-            "word" : "İLMİK",
+            "word" : "İLAVE",
             "index" : 3,
             "direction": 1
            },
            {
-            "word" : "İKLİM",
+            "word" : "VALE",
+            "index" : 14,
+            "direction": 1
+           },
+           {
+            "word" : "EVLİ",
             "index" : 8,
+            "direction": 0
+           },
+           {
+            "word" : "VELİ",
+            "index" : 31,
+            "direction": 1
+           },
+           {
+            "word" : "ALEV",
+            "index" : 21,
+            "direction": 0
+           },
+           {
+            "word" : "AİLE",
+            "index" : 17,
             "direction": 0
            }
       ]
     },
     {
-      "questionId": 50,
-      "questionMatrix": "X,X,X,X,P,E,S,X,E,N,S,E,X,X,X,X,X,X,N,X,X,X,X,X,X,S,E,N,X,S,E,N,E,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
+      "questionId": 60,
+      "questionMatrix": "X,X,K,X,X,X,X,X,K,E,K,İ,K,X,X,X,K,X,L,X,X,K,E,L,X,K,İ,L,X,X,İ,L,E,X,X,X,X,K,X,X,X,X,X,X,X,X,X,X,X",
       
-      "letters": "P,E,S,E,N",
-      "colorBombIndex" :23,
-      "verticalBombIndex":-1,
-      "horizontalBombIndex":16,
+      "letters": "K,E,L,K,İ,K",
+      "colorBombIndex" :11,
+      "verticalBombIndex":10,
+      "horizontalBombIndex":-1,
       "localBombIndex": -1,
-      "chocolate":[25],
-      "time":15,
+      "chocolate":[27],
+      "time":30,
       "words":[
           {
-            "word" : "ENSE",
+            "word" : "KİL",
+            "index" : 25,
+            "direction": 0
+           },
+           {
+            "word" : "İLKE",
+            "index" : 11,
+            "direction": 1
+           },
+           {
+            "word" : "KEKLİK",
+            "index" : 2,
+            "direction": 1
+           },
+           {
+            "word" : "KEL",
+            "index" :21,
+            "direction": 0
+           },
+           {
+            "word" : "KEKİK",
             "index" : 8,
             "direction": 0
            },
            {
-            "word" : "PENSE",
-            "index" : 4,
-            "direction": 1
-           },
-           {
-            "word" : "PES",
-            "index" : 4,
-            "direction": 0
-           },
-           {
-            "word" : "SENE",
-            "index" : 29,
-            "direction": 0
-           },
-           {
-            "word" : "SEN",
-            "index" : 25,
+            "word" : "İLE",
+            "index" : 30,
             "direction": 0
            }
       ]
