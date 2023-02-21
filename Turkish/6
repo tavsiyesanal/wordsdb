@@ -204,79 +204,84 @@
       ]
     },
     {
-      "questionId": 36,
-      "questionMatrix": "X,X,X,X,X,X,X,X,A,S,K,E,R,X,X,K,X,A,X,X,X,X,S,E,R,A,X,X,X,İ,X,E,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
+      "questionId": 56,
+      "questionMatrix": "X,X,X,K,X,X,X,X,M,E,R,A,K,X,X,E,X,E,X,A,X,K,R,E,M,X,R,X,X,A,X,A,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
       
-      "letters": "K,E,R,S,A,İ",
-      "colorBombIndex" :23,
+      "letters": "M,E,K,R,A",
+      "colorBombIndex" :10,
       "verticalBombIndex":-1,
-      "horizontalBombIndex":24,
-      "localBombIndex": -1,
+      "horizontalBombIndex":17,
+      "localBombIndex": 22,
       "words":[
           {
-            "word" : "ASKER",
-            "index" : 8,
-            "direction": 0
-           },
-           {
-            "word" : "AKSİ",
+            "word" : "MERA",
             "index" : 8,
             "direction": 1
            },
            {
-            "word" : "KARE",
-            "index" : 10,
+            "word" : "MERAK",
+            "index" : 8,
+            "direction": 0
+           },
+           {
+            "word" : "KREM",
+            "index" : 21,
+            "direction": 0
+           },
+           {
+            "word" : "KREMA",
+            "index" : 3,
             "direction": 1
            },
            {
-            "word" : "SERA",
-            "index" : 22,
-            "direction": 0
+            "word" : "KAR",
+            "index" : 12,
+            "direction": 1
            }
       ]
     },{
-      "questionId": 47,
-      "questionMatrix": "X,X,A,X,X,X,X,X,X,Y,X,X,Y,X,A,K,I,L,X,A,X,X,X,X,A,X,L,X,X,X,A,Y,L,I,K,X,X,X,I,X,X,I,A,Y,I,K,X,X,L",
+      "questionId": 57,
+      "questionMatrix": "X,X,X,F,A,R,X,X,X,X,O,X,X,X,X,F,X,R,O,M,A,F,O,R,M,X,O,X,X,R,X,A,X,R,X,R,A,F,X,X,X,X,X,X,X,X,X,X,X",
       
-      "letters": "I,Y,K,A,L",
-      "colorBombIndex" :16,
+      "letters": "R,A,M,F,O",
+      "colorBombIndex" :17,
       "verticalBombIndex":-1,
       "horizontalBombIndex":-1,
-      "localBombIndex": 31,
+      "localBombIndex": 22,
       "words":[
           {
-            "word" : "AYI",
-            "index" : 2,
+            "word" : "FORMA",
+            "index" : 3,
             "direction": 1
            },
            {
-            "word" : "AKIL",
-            "index" : 14,
+            "word" : "FORA",
+            "index" : 15,
+            "direction": 1
+           },
+           {
+            "word" : "FORM",
+            "index" : 21,
             "direction": 0
            },
            {
-            "word" : "LAYIK",
+            "word" : "FAR",
+            "index" : 3,
+            "direction": 0
+           },
+           {
+            "word" : "ROMA",
             "index" : 17,
-            "direction": 1
-           },
-           {
-            "word" : "KIL",
-            "index" : 34,
-            "direction": 1
-           },
-           {
-            "word" : "AYLIK",
-            "index" : 30,
             "direction": 0
            },
            {
-            "word" : "YALI",
-            "index" : 12,
+            "word" : "MOR",
+            "index" : 19,
             "direction": 1
            },
            {
-            "word" : "AYIK",
-            "index" : 42,
+            "word" : "RAF",
+            "index" : 35,
             "direction": 0
            }
       ]
