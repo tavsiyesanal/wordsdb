@@ -4,7 +4,7 @@
       "questionId": 1,
       "questionMatrix": "X,X,X,X,X,X,X,X,X,X,X,S,X,X,X,K,A,S,E,X,X,X,A,X,X,L,X,X,X,L,X,K,A,S,X,X,E,X,X,X,X,X,X,X,X,X,X,X,X",
       
-      "letters": "K,A,S,E,L",
+      "letters": "L,K,A,S,E",
       "colorBombIndex" :-1,
       "verticalBombIndex":17,
       "horizontalBombIndex":-1,
