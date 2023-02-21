@@ -359,49 +359,49 @@
     },
     {
       "questionId": 10,
-      "questionMatrix": "X,X,X,X,X,X,X,K,Ü,L,A,H,X,K,X,X,X,X,A,K,Ü,X,X,X,X,L,X,L,X,X,H,A,K,X,X,X,X,A,X,X,X,X,K,A,L,X,X,X,X",
+      "questionMatrix": "K,Ü,L,A,H,X,K,X,X,X,X,A,K,Ü,X,X,X,X,L,X,L,X,X,H,A,K,X,X,X,X,A,X,X,X,X,K,A,L,X,X,X,X,X,X,X,X,X,X,X",
       
       "letters": "Ü,L,K,A,H",
       "colorBombIndex" :-1,
-      "verticalBombIndex":31,
-      "horizontalBombIndex":25,
+      "verticalBombIndex":24,
+      "horizontalBombIndex":18,
       "localBombIndex": -1,
-      "chocolateIndexes":[20,37],
+      "chocolateIndexes":[13,30],
       "time":20,
       "words":[
           {
             "word" : "KÜLAH",
-            "index" : 7,
+            "index" : 0,
             "direction": 0
            },
            {
             "word" : "HALK",
-            "index" : 11,
+            "index" : 4,
             "direction": 1
            },
            {
             "word" : "KÜL",
-            "index" : 13,
+            "index" : 9,
             "direction": 1
            },
            {
             "word" : "HAK",
-            "index" : 30,
+            "index" : 23,
             "direction": 0
            },
            {
             "word" : "HAL",
-            "index" : 30,
+            "index" : 23,
             "direction": 1
            },
            {
             "word" : "KAL",
-            "index" : 42,
+            "index" : 35,
             "direction": 0
            },
            {
             "word" : "AKÜ",
-            "index" : 18,
+            "index" : 11,
             "direction": 0
            }
       ]
