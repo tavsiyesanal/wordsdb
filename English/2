@@ -2,34 +2,39 @@
   "questions": [
     {
       "questionId": 11,
-      "questionMatrix": "X,X,X,X,X,E,X,X,B,İ,L,E,K,X,X,X,L,X,X,X,X,X,X,K,X,X,X,X,X,B,E,L,K,İ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
+      "questionMatrix": "X,X,D,X,X,X,X,X,G,A,R,D,E,N,X,X,N,X,X,X,X,X,X,G,R,A,N,D,A,G,E,X,X,X,X,X,X,R,A,N,G,E,X,X,X,X,X,X,X",
       
-      "letters": "B,E,K,İ,L",
+      "letters": "G,R,A,D,N,E",
       "colorBombIndex" :9,
-      "verticalBombIndex":-1,
+      "verticalBombIndex":11,
       "horizontalBombIndex":-1,
       "localBombIndex": -1,
       "chocolateIndexes":[],
       "time":-1,
       "words":[
           {
-            "word" : "BİLEK",
+            "word" : "GARDEN",
             "index" : 8,
             "direction": 0
            },
            {
-            "word" : "BELKİ",
-            "index" : 29,
+            "word" : "RANGE",
+            "index" : 37,
             "direction": 0
            },
            {
-            "word" : "İLKE",
-            "index" : 9,
-            "direction": 1
+            "word" : "GRAND",
+            "index" : 23,
+            "direction": 0
            },
            {
-            "word" : "EK",
-            "index" : 5,
+            "word" : "AGE",
+            "index" : 28,
+            "direction": 0
+           },
+           {
+            "word" : "DANGER",
+            "index" : 2,
             "direction": 1
            }
       ]
