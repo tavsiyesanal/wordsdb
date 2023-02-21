@@ -85,127 +85,127 @@
       ]
     },
     {
-      "questionId": 43,
-      "questionMatrix": "X,X,X,P,U,M,A,K,U,P,A,X,X,X,X,X,X,M,X,K,X,K,A,M,U,X,U,X,A,X,X,K,A,M,P,P,A,K,X,X,X,X,X,X,X,X,X,X,X",
+      "questionId": 53,
+      "questionMatrix": "X,X,X,X,X,X,A,X,X,V,X,H,A,N,X,V,A,H,A,X,A,X,X,N,X,V,X,X,X,H,A,V,A,N,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
       
-      "letters": "P,U,M,A,K",
-      "colorBombIndex":10,
-      "verticalBombIndex":22,
-      "horizontalBombIndex":17,
-      "localBombIndex": 33,
+      "letters": "H,V,A,N,A",
+      "colorBombIndex":-1,
+      "verticalBombIndex":31,
+      "horizontalBombIndex":-1,
+      "localBombIndex": 16,
       "words":[
           {
-            "word" : "PAMUK",
-            "index" : 3,
+            "word" : "VAHA",
+            "index" : 15,
+            "direction": 0
+           },
+           {
+            "word" : "VANA",
+            "index" : 9,
             "direction": 1
            },
            {
-            "word" : "KAMU",
-            "index" : 21,
+            "word" : "HAVAN",
+            "index" : 29,
             "direction": 0
            },
            {
-            "word" : "KUPA",
-            "index" : 7,
-            "direction": 0
-           },
-           {
-            "word" : "PAK",
-            "index" : 35,
-            "direction": 0
-           },
-           {
-            "word" : "KAP",
-            "index" : 21,
+            "word" : "HAVA",
+            "index" : 11,
             "direction": 1
            },
            {
-            "word" : "PUMA",
-            "index" : 3,
-            "direction": 0
-           },
-           {
-            "word" : "KAMP",
-            "index" : 31,
-            "direction": 0
-           },
-           {
-            "word" : "KUM",
-            "index" : 19,
+            "word" : "ANA",
+            "index" : 6,
             "direction": 1
            }
       ]
     },
     {
-    "questionId": 44,
-      "questionMatrix": "X,X,Y,X,Y,X,X,X,B,A,Y,A,N,X,X,X,B,X,N,X,X,X,X,A,Y,İ,N,X,X,X,N,X,X,X,X,X,X,İ,X,X,X,X,X,X,X,X,X,X,X",
+    "questionId": 54,
+      "questionMatrix": "X,X,K,X,X,X,X,X,G,E,Ç,M,E,K,X,X,Ç,X,X,X,X,X,X,E,M,E,K,X,X,X,X,X,G,X,X,X,X,X,X,E,X,X,X,X,X,X,X,X,X",
       
-      "letters": "B,Y,A,N,İ,A",
-      "colorBombIndex" :11,
-      "verticalBombIndex":10,
+      "letters": "E,K,E,M,G,Ç",
+      "colorBombIndex" :-1,
+      "verticalBombIndex":26,
       "horizontalBombIndex":-1,
       "localBombIndex": 9,
       "words":[
           {
-            "word" : "YABANİ",
-            "index" : 2,
-            "direction": 1
-           },
-           {
-            "word" : "BAYAN",
+            "word" : "GEÇMEK",
             "index" : 8,
             "direction": 0
            },
-          
-            "word" : "YANİ",
-            "index" : 4,
+           {
+            "word" : "KEÇE",
+            "index" : 2,
             "direction": 1
            },
-           {
-            "word" : "AYİN",
+          
+            "word" : "EMEK",
             "index" : 23,
             "direction": 0
+           },
+           {
+            "word" : "EGE",
+            "index" : 25,
+            "direction": 1
            }
           
       ]
     },
     {
-      "questionId": 45,
-      "questionMatrix":"X,X,Z,X,Z,X,X,X,N,A,M,A,Z,X,X,X,M,X,M,X,X,X,M,A,N,A,X,X,X,X,N,X,N,X,X,X,X,E,X,X,X,X,X,X,X,X,X,X,X",
+      "questionId": 55,
+      "questionMatrix":"X,A,X,Y,X,X,X,X,Y,X,A,S,A,X,X,Ç,X,S,X,X,X,S,A,Y,A,Ç,X,X,A,X,X,X,A,X,X,Ç,X,X,X,Y,A,S,X,X,X,X,X,X,X",
       
-      "letters": "Z,A,N,M,A,E",
-      "colorBombIndex" :9,
+      "letters": "Y,S,A,Ç,A",
+      "colorBombIndex" :10,
       "verticalBombIndex":-1,
-      "horizontalBombIndex":11,
-      "localBombIndex": 11,
-      "chocolate":[37],
-      "time":25,
+      "horizontalBombIndex":28,
+      "localBombIndex": -1,
+      "chocolate":[40],
+      "time":30,
       "words":[
           {
-            "word" : "ZAMAN",
-            "index" : 4,
-            "direction": 0
-           },
-           {
-            "word" : "NAMAZ",
-            "index" : 8,
-            "direction": 0
-           },
-           {
-            "word" : "ZAMANE",
-            "index" : 2,
+            "word" : "AYÇA",
+            "index" : 1,
             "direction": 1
            },
            {
-            "word" : "MANA",
-            "index" : 22,
+            "word" : "SAÇ",
+            "index" : 21,
+            "direction": 1
+           },
+           {
+            "word" : "ÇAY",
+            "index" : 25,
+            "direction": 1
+           },
+           {
+            "word" : "YASA",
+            "index" : 3,
+            "direction": 1
+           },
+           {
+            "word" : "YAS",
+            "index" : 39,
+            "direction": 0
+           },
+           {
+            "word" : "SAYAÇ",
+            "index" : 21,
+            "direction": 0
+           },
+           {
+            "word" : "ASA",
+            "index" : 10,
             "direction": 0
            }
       ]
     },
     {
       "questionId": 36,
-      "questionMatrix": "X,X,X,X,X,X,X,X,A,S,K,E,R,X,X,K,X,A,X,X,X,X,S,E,R,A,X,X,X,İ,X,E ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
+      "questionMatrix": "X,X,X,X,X,X,X,X,A,S,K,E,R,X,X,K,X,A,X,X,X,X,S,E,R,A,X,X,X,İ,X,E,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
       
       "letters": "K,E,R,S,A,İ",
       "colorBombIndex" :23,
