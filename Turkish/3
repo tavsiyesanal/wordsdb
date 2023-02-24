@@ -36,7 +36,7 @@
     },
     {
       "questionId": 22,
-      "questionMatrix": "X,K,E,S,İ,K,X,X,X,X,X,S,X,X,X,X,S,İ,T,E,X,X,X,X,X,E,X,X,X,E,T,İ,K,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X"
+      "questionMatrix": "X,K,E,S,İ,K,X,X,X,X,X,S,X,X,X,X,S,İ,T,E,X,X,X,X,X,E,X,X,X,E,T,İ,K,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
       
       "letters": "E,K,İ,T,S",
       "colorBombIndex" :4,
