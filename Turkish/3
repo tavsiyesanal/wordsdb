@@ -325,7 +325,7 @@
       
       "letters": "S,L,E,M,A",
       "colorBombIndex" :10,
-      "verticalBombIndex":=1,
+      "verticalBombIndex":-1,
       "horizontalBombIndex":22,
       "localBombIndex": -1,
       "chocolateIndexes":[],
