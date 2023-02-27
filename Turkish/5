@@ -214,39 +214,34 @@
       "horizontalBombIndex":-1,
       "localBombIndex": 24,
       "words":[
-          {
-            "word" : "AYI",
-            "index" : 2,
-            "direction": 1
-           },
            {
             "word" : "AKIL",
-            "index" : 14,
+            "index" : 7,
             "direction": 0
            },
            {
             "word" : "LAYIK",
-            "index" : 17,
+            "index" : 10,
             "direction": 1
            },
            {
             "word" : "KIL",
-            "index" : 34,
+            "index" : 27,
             "direction": 1
            },
            {
             "word" : "AYLIK",
-            "index" : 30,
+            "index" : 23,
             "direction": 0
            },
            {
             "word" : "YALI",
-            "index" : 12,
+            "index" : 5,
             "direction": 1
            },
            {
             "word" : "AYIK",
-            "index" : 42,
+            "index" : 35,
             "direction": 0
            }
       ]
