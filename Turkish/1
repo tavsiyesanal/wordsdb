@@ -366,8 +366,8 @@
       "verticalBombIndex":24,
       "horizontalBombIndex":18,
       "localBombIndex": -1,
-      "chocolateIndexes":[13,30],
-      "time":20,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "KÜLAH",
