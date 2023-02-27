@@ -1,0 +1,422 @@
+{
+  "questions": [
+    {
+      "questionId": 61,
+      "questionMatrix":"X,X,X,O,M,U,R,G,R,A,M,X,X,X,A,X,X,U,X,X,X,R,X,X,R,O,M,A,X,O,R,G,X,O,X,X,X,X,A,X,R,X,X,X,X,X,X,X,X",
+      
+      "letters": "R,O,M,G,U,A",
+      "colorBombIndex" :8,
+      "verticalBombIndex":4,
+      "horizontalBombIndex":14,
+      "localBombIndex": 24,
+      "words":[
+          {
+            "word" : "GRAM",
+            "index" : 7,
+            "direction": 0
+           },
+           {
+            "word" : "OMURGA",
+            "index" : 3,
+            "direction": 1
+           },
+           {
+            "word" : "OMUR",
+            "index" : 3,
+            "direction": 0
+           },
+           {
+            "word" : "ORG",
+            "index" : 29,
+            "direction": 0
+           },
+           {
+            "word" : "MOR",
+            "index" : 26,
+            "direction": 1
+           },
+           {
+            "word" : "GAR",
+            "index" : 7,
+            "direction": 1
+           },
+           {
+            "word" : "ROMA",
+            "index" : 24,
+            "direction": 0
+           }
+      ]
+    },
+    {
+      "questionId": 52,
+      "questionMatrix": "X,X,X,X,P,E,K,X,T,E,K,E,X,X,X,X,T,X,T,E ,K,X,T,E,P,E,X,E,X,X,K,X,K,X,P,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
+      
+      "letters": "T,E,K,P,E",
+      "colorBombIndex" :18,
+      "verticalBombIndex":10,
+      "horizontalBombIndex":-1,
+      "localBombIndex": 23,
+      "words":[
+          {
+            "word" : "TEPE",
+            "index" : 22,
+            "direction": 0
+           },
+           {
+            "word" : "ETEK",
+            "index" : 9,
+            "direction": 1
+           },
+           {
+            "word" : "PETEK",
+            "index" : 4,
+            "direction": 1
+           },
+           {
+            "word" : "KEP",
+            "index" : 20,
+            "direction": 1
+           },
+           {
+            "word" : "4",
+            "index" : 32,
+            "direction": 0
+           },
+           {
+            "word" : "TEKE",
+            "index" : 8,
+            "direction": 0
+           }
+      ]
+    },
+    {
+      "questionId": 53,
+      "questionMatrix": "X,X,X,X,X,X,A,X,X,V,X,H,A,N,X,V,A,H,A,X,A,X,X,N,X,V,X,X,X,H,A,V,A,N,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
+      
+      "letters": "H,V,A,N,A",
+      "colorBombIndex":-1,
+      "verticalBombIndex":31,
+      "horizontalBombIndex":-1,
+      "localBombIndex": 16,
+      "words":[
+          {
+            "word" : "VAHA",
+            "index" : 15,
+            "direction": 0
+           },
+           {
+            "word" : "VANA",
+            "index" : 9,
+            "direction": 1
+           },
+           {
+            "word" : "HAVAN",
+            "index" : 29,
+            "direction": 0
+           },
+           {
+            "word" : "HAVA",
+            "index" : 11,
+            "direction": 1
+           },
+           {
+            "word" : "ANA",
+            "index" : 6,
+            "direction": 1
+           }
+      ]
+    },
+    {
+    "questionId": 54,
+      "questionMatrix": "X,X,K,X,X,X,X,X,G,E,Ç,M,E,K,X,X,Ç,X,X,X,X,X,X,E,M,E,K,X,X,X,X,X,G,X,X,X,X,X,X,E,X,X,X,X,X,X,X,X,X",
+      
+      "letters": "E,K,E,M,G,Ç",
+      "colorBombIndex" :-1,
+      "verticalBombIndex":26,
+      "horizontalBombIndex":-1,
+      "localBombIndex": 9,
+      "words":[
+          {
+            "word" : "GEÇMEK",
+            "index" : 8,
+            "direction": 0
+           },
+           {
+            "word" : "KEÇE",
+            "index" : 2,
+            "direction": 1
+           },
+          
+            "word" : "EMEK",
+            "index" : 23,
+            "direction": 0
+           },
+           {
+            "word" : "EGE",
+            "index" : 25,
+            "direction": 1
+           }
+          
+      ]
+    },
+    {
+      "questionId": 55,
+      "questionMatrix":"X,A,X,Y,X,X,X,X,Y,X,A,S,A,X,X,Ç,X,S,X,X,X,S,A,Y,A,Ç,X,X,A,X,X,X,A,X,X,Ç,X,X,X,Y,A,S,X,X,X,X,X,X,X",
+      
+      "letters": "Y,S,A,Ç,A",
+      "colorBombIndex" :10,
+      "verticalBombIndex":-1,
+      "horizontalBombIndex":28,
+      "localBombIndex": -1,
+      "chocolate":[40],
+      "time":30,
+      "words":[
+          {
+            "word" : "AYÇA",
+            "index" : 1,
+            "direction": 1
+           },
+           {
+            "word" : "SAÇ",
+            "index" : 21,
+            "direction": 1
+           },
+           {
+            "word" : "ÇAY",
+            "index" : 25,
+            "direction": 1
+           },
+           {
+            "word" : "YASA",
+            "index" : 3,
+            "direction": 1
+           },
+           {
+            "word" : "YAS",
+            "index" : 39,
+            "direction": 0
+           },
+           {
+            "word" : "SAYAÇ",
+            "index" : 21,
+            "direction": 0
+           },
+           {
+            "word" : "ASA",
+            "index" : 10,
+            "direction": 0
+           }
+      ]
+    },
+    {
+      "questionId": 56,
+      "questionMatrix": "X,X,X,K,X,X,X,X,M,E,R,A,K,X,X,E,X,E,X,A,X,K,R,E,M,X,R,X,X,A,X,A,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
+      
+      "letters": "M,E,K,R,A",
+      "colorBombIndex" :10,
+      "verticalBombIndex":-1,
+      "horizontalBombIndex":17,
+      "localBombIndex": 22,
+      "words":[
+          {
+            "word" : "MERA",
+            "index" : 8,
+            "direction": 1
+           },
+           {
+            "word" : "MERAK",
+            "index" : 8,
+            "direction": 0
+           },
+           {
+            "word" : "KREM",
+            "index" : 21,
+            "direction": 0
+           },
+           {
+            "word" : "KREMA",
+            "index" : 3,
+            "direction": 1
+           },
+           {
+            "word" : "KAR",
+            "index" : 12,
+            "direction": 1
+           }
+      ]
+    },{
+      "questionId": 57,
+      "questionMatrix": "X,X,X,F,A,R,X,X,X,X,O,X,X,X,X,F,X,R,O,M,A,F,O,R,M,X,O,X,X,R,X,A,X,R,X,R,A,F,X,X,X,X,X,X,X,X,X,X,X",
+      
+      "letters": "R,A,M,F,O",
+      "colorBombIndex" :17,
+      "verticalBombIndex":-1,
+      "horizontalBombIndex":-1,
+      "localBombIndex": 22,
+      "words":[
+          {
+            "word" : "FORMA",
+            "index" : 3,
+            "direction": 1
+           },
+           {
+            "word" : "FORA",
+            "index" : 15,
+            "direction": 1
+           },
+           {
+            "word" : "FORM",
+            "index" : 21,
+            "direction": 0
+           },
+           {
+            "word" : "FAR",
+            "index" : 3,
+            "direction": 0
+           },
+           {
+            "word" : "ROMA",
+            "index" : 17,
+            "direction": 0
+           },
+           {
+            "word" : "MOR",
+            "index" : 19,
+            "direction": 1
+           },
+           {
+            "word" : "RAF",
+            "index" : 35,
+            "direction": 0
+           }
+      ]
+    },
+    {
+      "questionId": 58,
+      "questionMatrix": "X,X,M,X,E,X,X,X,M,E,Y,D,A,N,X,X,D,X,A,X,E,X,X,Y,X,X,X,M,X,N,A,M,E,X,A,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
+      
+      "letters": D,E,M,Y,A,N",
+      "colorBombIndex" :-1,
+      "verticalBombIndex":-1,
+      "horizontalBombIndex":-1,
+      "localBombIndex": 11,
+      "words":[
+          {
+            "word" : "MEYDAN",
+            "index" : 8,
+            "direction": 0
+           },
+           {
+            "word" : "MEDYA",
+            "index" : 2,
+            "direction": 1
+           },
+           {
+            "word" : "NAME",
+            "index" : 29,
+            "direction": 1
+           },
+           {
+            "word" : "EDA",
+            "index" : 4,
+            "direction": 1
+           },
+           {
+            "word" : "NEMA",
+            "index" : 13,
+            "direction": 1
+           }
+      ]
+    },{
+      "questionId": 59,
+      "questionMatrix": "V,A,L,İ,X,X,X,X,X,X,L,X,X,V,V,X,X,A,İ,L,E,A,L,E,V,X,X,L,L,X,X,E,V,L,İ,E,X,X,X,X,X,X,X,X,X,X,X,X,X",
+      
+      "letters": "V,L,A,E,İ",
+      "colorBombIndex" :-1,
+      "verticalBombIndex":2,
+      "horizontalBombIndex":13,
+      "localBombIndex": -1,
+      "words":[
+          {
+            "word" : "VALİ",
+            "index" : 0,
+            "direction": 0
+           },
+           {
+            "word" : "İLAVE",
+            "index" : 3,
+            "direction": 1
+           },
+           {
+            "word" : "VALE",
+            "index" : 14,
+            "direction": 1
+           },
+           {
+            "word" : "EVLİ",
+            "index" : 8,
+            "direction": 0
+           },
+           {
+            "word" : "VELİ",
+            "index" : 31,
+            "direction": 1
+           },
+           {
+            "word" : "ALEV",
+            "index" : 21,
+            "direction": 0
+           },
+           {
+            "word" : "AİLE",
+            "index" : 17,
+            "direction": 0
+           }
+      ]
+    },
+    {
+      "questionId": 60,
+      "questionMatrix": "X,X,K,X,X,X,X,X,K,E,K,İ,K,X,X,X,K,X,L,X,X,K,E,L,X,K,İ,L,X,X,İ,L,E,X,X,X,X,K,X,X,X,X,X,X,X,X,X,X,X",
+      
+      "letters": "K,E,L,K,İ,K",
+      "colorBombIndex" :11,
+      "verticalBombIndex":10,
+      "horizontalBombIndex":-1,
+      "localBombIndex": -1,
+      "chocolate":[27],
+      "time":30,
+      "words":[
+          {
+            "word" : "KİL",
+            "index" : 25,
+            "direction": 0
+           },
+           {
+            "word" : "İLKE",
+            "index" : 11,
+            "direction": 1
+           },
+           {
+            "word" : "KEKLİK",
+            "index" : 2,
+            "direction": 1
+           },
+           {
+            "word" : "KEL",
+            "index" :21,
+            "direction": 0
+           },
+           {
+            "word" : "KEKİK",
+            "index" : 8,
+            "direction": 0
+           },
+           {
+            "word" : "İLE",
+            "index" : 30,
+            "direction": 0
+           }
+      ]
+    }
+  ]
+}
