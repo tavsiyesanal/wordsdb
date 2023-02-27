@@ -48,43 +48,48 @@
       ]
     },
     {
-      "questionId": 52,
-      "questionMatrix": "X,X,X,X,P,E,K,X,T,E,K,E,X,X,X,X,T,X,T,E ,K,X,T,E,P,E,X,E,X,X,K,X,K,X,P,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
+      "questionId": 62,
+      "questionMatrix": "X,A,X,B,A,R,X,X,R,X,A,X,X,R,X,I,R,K,X,X,A,X,X,X,I,R,A,K,X,K,I,R,X,X,I,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
       
-      "letters": "T,E,K,P,E",
-      "colorBombIndex" :18,
-      "verticalBombIndex":10,
-      "horizontalBombIndex":-1,
-      "localBombIndex": 23,
+      "letters": "A,I,B,K,R",
+      "colorBombIndex" :-1,
+      "verticalBombIndex":16,
+      "horizontalBombIndex":10,
+      "localBombIndex": -1,
       "words":[
           {
-            "word" : "TEPE",
-            "index" : 22,
+            "word" : "ARI",
+            "index" : 1,
+            "direction": 1
+           },
+           {
+            "word" : "IRK",
+            "index" : 15,
             "direction": 0
            },
            {
-            "word" : "ETEK",
-            "index" : 9,
+            "word" : "BAKIR",
+            "index" : 3,
             "direction": 1
            },
            {
-            "word" : "PETEK",
-            "index" : 4,
-            "direction": 1
-           },
-           {
-            "word" : "KEP",
-            "index" : 20,
-            "direction": 1
-           },
-           {
-            "word" : "4",
-            "index" : 32,
+            "word" : "IRAK",
+            "index" : 24,
             "direction": 0
            },
            {
-            "word" : "TEKE",
-            "index" : 8,
+            "word" : "BAR",
+            "index" : 3,
+            "direction": 0
+           },
+           {
+            "word" : "RAKI",
+            "index" : 13,
+            "direction": 1
+           },
+           {
+            "word" : "KIR",
+            "index" : 29,
             "direction": 0
            }
       ]
