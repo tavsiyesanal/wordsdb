@@ -206,13 +206,13 @@
       ]
     },{
       "questionId": 47,
-      "questionMatrix": "X,X,A,X,X,X,X,X,X,Y,X,X,Y,X,A,K,I,L,X,A,X,X,X,X,A,X,L,X,X,X,A,Y,L,I,K,X,X,X,I,X,X,I,A,Y,I,K,X,X,L",
+      "questionMatrix": "X,X,X,X,X,Y,X,A,K,I,L,X,A,X,X,X,X,A,X,L,X,X,X,A,Y,L,I,K,X,X,X,I,X,X,I,A,Y,I,K,X,X,L,X,X,X,X,X,X,X",
       
       "letters": "I,Y,K,A,L",
-      "colorBombIndex" :16,
+      "colorBombIndex" :10,
       "verticalBombIndex":-1,
       "horizontalBombIndex":-1,
-      "localBombIndex": 31,
+      "localBombIndex": 24,
       "words":[
           {
             "word" : "AYI",
