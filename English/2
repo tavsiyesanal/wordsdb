@@ -346,45 +346,45 @@
     },
     {
       "questionId": 20,
-      "questionMatrix": "X,X,X,X,K,X,X,A,R,A,X,A,X,A,X,X,K,A,R,A,R,X,X,A,X,A,X,K,K,A,R,X,X,X,A,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
+      "questionMatrix": "X,F,O,R,G,E,X,X,O,X,X,X,G,X,X,E,X,X,F,O,G,X,X,X,X,O,X,X,X,X,X,F,R,O,G,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
       
-      "letters": "A,R,A,R,K",
-      "colorBombIndex" :18,
-      "verticalBombIndex":29,
+      "letters": "F,O,R,E,G",
+      "colorBombIndex" :3,
+      "verticalBombIndex":-1,
       "horizontalBombIndex":-1,
       "localBombIndex": -1,
       "chocolateIndexes":[],
       "time":-1,
       "words":[
           {
-            "word" : "ARA",
-            "index" : 7,
+            "word" : "FROG",
+            "index" : 31,
             "direction": 0
            },
            {
-            "word" : "KAR",
-            "index" : 28,
+            "word" : "FOR",
+            "index" : 18,
+            "direction": 1
+           },
+           {
+            "word" : "FORGE",
+            "index" : 1,
             "direction": 0
            },
            {
-            "word" : "KARAR",
-            "index" : 16,
+            "word" : "EGO",
+            "index" : 5,
+            "direction": 1
+           },
+           {
+            "word" : "FOE",
+            "index" : 1,
+            "direction": 1
+           },
+           {
+            "word" : "FOG",
+            "index" : 18,
             "direction": 0
-           },
-           {
-            "word" : "AKAR",
-            "index" : 9,
-            "direction": 1
-           },
-           {
-            "word" : "KARA",
-            "index" : 4,
-            "direction": 1
-           },
-           {
-            "word" : "ARKA",
-            "index" : 13,
-            "direction": 1
            }
       ]
     }
