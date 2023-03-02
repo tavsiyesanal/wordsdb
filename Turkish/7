@@ -95,204 +95,239 @@
       ]
     },
     {
-      "questionId": 53,
-      "questionMatrix": "X,X,X,X,X,X,A,X,X,V,X,H,A,N,X,V,A,H,A,X,A,X,X,N,X,V,X,X,X,H,A,V,A,N,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
+      "questionId": 63,
+      "questionMatrix": "X,D,X,X,X,X,X,X,A,X,X,A,Ç,X,A,L,G,I,X,A,X,Ç,X,I,X,X,L,X,I,X,D,X,X,G,X,X,D,A,L,G,I,Ç,X,X,X,X,X,X,X",
       
-      "letters": "H,V,A,N,A",
-      "colorBombIndex":-1,
-      "verticalBombIndex":31,
-      "horizontalBombIndex":-1,
+      "letters": "D,I,L,A,G,Ç",
+      "colorBombIndex":40,
+      "verticalBombIndex":-1,
+      "horizontalBombIndex":23,
       "localBombIndex": 16,
       "words":[
           {
-            "word" : "VAHA",
-            "index" : 15,
-            "direction": 0
-           },
-           {
-            "word" : "VANA",
-            "index" : 9,
-            "direction": 1
-           },
-           {
-            "word" : "HAVAN",
-            "index" : 29,
-            "direction": 0
-           },
-           {
-            "word" : "HAVA",
-            "index" : 11,
-            "direction": 1
-           },
-           {
-            "word" : "ANA",
-            "index" : 6,
-            "direction": 1
-           }
-      ]
-    },
-    {
-    "questionId": 54,
-      "questionMatrix": "X,X,K,X,X,X,X,X,G,E,Ç,M,E,K,X,X,Ç,X,X,X,X,X,X,E,M,E,K,X,X,X,X,X,G,X,X,X,X,X,X,E,X,X,X,X,X,X,X,X,X",
-      
-      "letters": "E,K,E,M,G,Ç",
-      "colorBombIndex" :-1,
-      "verticalBombIndex":26,
-      "horizontalBombIndex":-1,
-      "localBombIndex": 9,
-      "words":[
-          {
-            "word" : "GEÇMEK",
-            "index" : 8,
-            "direction": 0
-           },
-           {
-            "word" : "KEÇE",
-            "index" : 2,
-            "direction": 1
-           },
-          
-            "word" : "EMEK",
-            "index" : 23,
-            "direction": 0
-           },
-           {
-            "word" : "EGE",
-            "index" : 25,
-            "direction": 1
-           }
-          
-      ]
-    },
-    {
-      "questionId": 55,
-      "questionMatrix":"X,A,X,Y,X,X,X,X,Y,X,A,S,A,X,X,Ç,X,S,X,X,X,S,A,Y,A,Ç,X,X,A,X,X,X,A,X,X,Ç,X,X,X,Y,A,S,X,X,X,X,X,X,X",
-      
-      "letters": "Y,S,A,Ç,A",
-      "colorBombIndex" :10,
-      "verticalBombIndex":-1,
-      "horizontalBombIndex":28,
-      "localBombIndex": -1,
-      "chocolate":[40],
-      "time":30,
-      "words":[
-          {
-            "word" : "AYÇA",
-            "index" : 1,
-            "direction": 1
-           },
-           {
-            "word" : "SAÇ",
-            "index" : 21,
-            "direction": 1
-           },
-           {
-            "word" : "ÇAY",
-            "index" : 25,
-            "direction": 1
-           },
-           {
-            "word" : "YASA",
-            "index" : 3,
-            "direction": 1
-           },
-           {
-            "word" : "YAS",
+            "word" : "DALGIÇ",
             "index" : 39,
             "direction": 0
            },
            {
-            "word" : "SAYAÇ",
-            "index" : 21,
+            "word" : "GIDA",
+            "index" : 16,
+            "direction": 1
+           },
+           {
+            "word" : "AÇI",
+            "index" : 14,
+            "direction": 1
+           },
+           {
+            "word" : "ALGI",
+            "index" : 14,
             "direction": 0
            },
            {
-            "word" : "ASA",
-            "index" : 10,
+            "word" : "DAL",
+            "index" : 1,
+            "direction": 1
+           },
+           {
+            "word" : "ÇALGI",
+            "index" : 12,
+            "direction": 1
+           },
+           {
+            "word" : "AÇ",
+            "index" : 11,
             "direction": 0
            }
       ]
     },
     {
-      "questionId": 56,
-      "questionMatrix": "X,X,X,K,X,X,X,X,M,E,R,A,K,X,X,E,X,E,X,A,X,K,R,E,M,X,R,X,X,A,X,A,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
+    "questionId": 64,
+      "questionMatrix": "A,L,O,X,X,L,X,X,X,V,O,K,A,L,X,X,A,X,X,V,X,K,O,L,A,X,X,X,X,V,X,X,X,X,X,X,A,V,X,X,X,X,X,X,X,X,X,X,X",
       
-      "letters": "M,E,K,R,A",
-      "colorBombIndex" :10,
-      "verticalBombIndex":-1,
-      "horizontalBombIndex":17,
-      "localBombIndex": 22,
+      "letters": "K,O,L,A,V",
+      "colorBombIndex" :-1,
+      "verticalBombIndex":10,
+      "horizontalBombIndex":16,
+      "localBombIndex": 12,
       "words":[
           {
-            "word" : "MERA",
-            "index" : 8,
-            "direction": 1
-           },
-           {
-            "word" : "MERAK",
-            "index" : 8,
+            "word" : "ALO",
+            "index" : 0,
             "direction": 0
            },
            {
-            "word" : "KREM",
+            "word" : "OVAL",
+            "index" : 2,
+            "direction": 1
+           },
+          
+            "word" : "VOKAL",
+            "index" : 9,
+            "direction": 0
+           },
+           {
+            "word" : "LAV",
+            "index" : 5,
+            "direction": 1
+           },
+           {
+            "word" : "KOLA",
             "index" : 21,
-            "direction": 0
-           },
-           {
-            "word" : "KREMA",
-            "index" : 3,
             "direction": 1
            },
            {
-            "word" : "KAR",
-            "index" : 12,
+            "word" : "AV",
+            "index" : 36,
+            "direction": 0
+           },
+           {
+            "word" : "OVA",
+            "index" : 22,
             "direction": 1
            }
+          
       ]
-    },{
-      "questionId": 57,
-      "questionMatrix": "X,X,X,F,A,R,X,X,X,X,O,X,X,X,X,F,X,R,O,M,A,F,O,R,M,X,O,X,X,R,X,A,X,R,X,R,A,F,X,X,X,X,X,X,X,X,X,X,X",
+    },
+    {
+      "questionId": 65,
+      "questionMatrix":"X,K,A,Z,X,Z,X,M,X,X,A,X,A,X,U,X,X,K,A,M,U,Z,A,M,K,X,X,X,X,X,X,U,Z,A,K,X,K,U,M,X,X,X,X,X,X,X,X,X,X",
       
-      "letters": "R,A,M,F,O",
+      "letters": "Z,A,U,K,K,M",
       "colorBombIndex" :17,
-      "verticalBombIndex":-1,
-      "horizontalBombIndex":-1,
-      "localBombIndex": 22,
+      "verticalBombIndex":37,
+      "horizontalBombIndex":7,
+      "localBombIndex": -1,
+      "chocolate":[],
+      "time":-1,
       "words":[
           {
-            "word" : "FORMA",
+            "word" : "ZAKKUM",
             "index" : 3,
             "direction": 1
            },
            {
-            "word" : "FORA",
-            "index" : 15,
+            "word" : "MUZ",
+            "index" : 7,
             "direction": 1
            },
            {
-            "word" : "FORM",
-            "index" : 21,
+            "word" : "ZAM",
+            "index" : 5,
+            "direction": 1
+           },
+           {
+            "word" : "KAZ",
+            "index" : 1,
             "direction": 0
            },
            {
-            "word" : "FAR",
-            "index" : 3,
+            "word" : "KUM",
+            "index" : 36,
             "direction": 0
            },
            {
-            "word" : "ROMA",
+            "word" : "KAMU",
             "index" : 17,
             "direction": 0
            },
            {
-            "word" : "MOR",
-            "index" : 19,
+            "word" : "UZAK",
+            "index" : 31,
+            "direction": 0
+           },
+           {
+            "word" : "ZAMK",
+            "index" : 21,
+            "direction": 0
+           }
+      ]
+    },
+    {
+      "questionId": 66,
+      "questionMatrix": "K,A,Y,A,X,X,X,X,X,X,Y,A,K,A,X,Y,X,A,X,A,X,K,A,Y,K,A,Y,X,X,Y,X,X,X,A,X,Y,A,Y,X,X,K,X,X,X,X,X,X,X,X",
+      
+      "letters": "K,Y,K,Y,A,A",
+      "colorBombIndex" :-1,
+      "verticalBombIndex":2,
+      "horizontalBombIndex":17,
+      "localBombIndex": 22,
+      "words":[
+          {
+            "word" : "KAYA",
+            "index" : 0,
+            "direction": 0
+           },
+           {
+            "word" : "KAYAK",
+            "index" : 12,
             "direction": 1
            },
            {
-            "word" : "RAF",
+            "word" : "KAYKAY",
+            "index" : 21,
+            "direction": 0
+           },
+           {
+            "word" : "YAYA",
+            "index" : 15,
+            "direction": 1
+           },
+           {
+            "word" : "YAY",
             "index" : 35,
             "direction": 0
+           },
+           {
+            "word" : "YAKA",
+            "index" : 10,
+            "direction": 0
+           },
+           {
+            "word" : "AYAK",
+            "index" : 3,
+            "direction": 0
+           }
+      ]
+    },{
+      "questionId": 67,
+      "questionMatrix": "X,X,X,D,A,R,I,X,X,A,X,Y,X,X,X,X,Y,A,R,I,M,X,X,X,X,I,X,X,X,A,D,I,M,X,X,X,R,X,X,X,X,X,X,X,X,X,X,X,X",
+      
+      "letters": "A,Y,M,R,D,I",
+      "colorBombIndex" :18,
+      "verticalBombIndex":3,
+      "horizontalBombIndex":-1,
+      "localBombIndex": -1,
+      "words":[
+          {
+            "word" : "DARI",
+            "index" : 3,
+            "direction": 0
+           },
+           {
+            "word" : "ADIM",
+            "index" : 29,
+            "direction": 0
+           },
+           {
+            "word" : "YARIM",
+            "index" : 16,
+            "direction": 0
+           },
+           {
+            "word" : "AYRIM",
+            "index" : 4,
+            "direction": 1
+           },
+           {
+            "word" : "AY",
+            "index" : 9,
+            "direction": 1
+           },
+           {
+            "word" : "AR",
+            "index" : 29,
+            "direction": 1
            }
       ]
     },
