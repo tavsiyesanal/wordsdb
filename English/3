@@ -132,8 +132,8 @@
       "questionMatrix": "X,S,K,I,N,X,X,X,K,X,X,X,S,X,X,I,N,K,X,I,X,X,X,X,I,N,N,X,X,S,I,N,X,K,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
       
       "letters": "S,N,N,I,K",
-      "colorBombIndex” :15,
-      "verticalBombIndex”:2,
+      "colorBombIndex" :15,
+      "verticalBombIndex":2,
       "horizontalBombIndex":-1,
       "localBombIndex": -1,
       "chocolateIndexes":[],
@@ -173,10 +173,10 @@
     },
     {
       "questionId": 25,
-      "questionMatrix":"X,F,O,N,T,X,X,X,X,F,X,X,X,X,F,X,T,O,N,E,X,O,N,E,X,X,X,X,E,X,N,O,T,E,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X”,
+      "questionMatrix":"X,F,O,N,T,X,X,X,X,F,X,X,X,X,F,X,T,O,N,E,X,O,N,E,X,X,X,X,E,X,N,O,T,E,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
       "letters": "F,N,T,E,O",
-      "colorBombIndex” :2,
-      "verticalBombIndex”:32,
+      "colorBombIndex" :2,
+      "verticalBombIndex":32,
       "horizontalBombIndex":-1,
       "localBombIndex": -1,
       "chocolateIndexes":[],
@@ -216,11 +216,11 @@
     },
     {
       "questionId": 26,
-      "questionMatrix": "X,S,E,N,D,X,X,N,X,X,X,E,X,X,E,X,T,X,N,E,T,S,C,E,N,T,X,E,T,X,N,X,X,X,N,X,X,D,E,N,X,X,X,X,X,X,X,X,X”,
+      "questionMatrix": "X,S,E,N,D,X,X,N,X,X,X,E,X,X,E,X,T,X,N,E,T,S,C,E,N,T,X,E,T,X,N,X,X,X,N,X,X,D,E,N,X,X,X,X,X,X,X,X,X",
       
       "letters": "C,N,T,D,S,E",
       "colorBombIndex" :-1,
-      "verticalBombIndex”:3,
+      "verticalBombIndex":3,
       "horizontalBombIndex":-1,
       "localBombIndex": 23,
       "chocolateIndexes":[],
@@ -273,8 +273,8 @@
       
       "letters": "D,S,I,E,V,E",
       "colorBombIndex" :-1,
-      "verticalBombIndex”:-1,
-      "horizontalBombIndex”:32,
+      "verticalBombIndex":-1,
+      "horizontalBombIndex":32,
       "localBombIndex": 25,
       "chocolateIndexes":[],
       "time":-1,
@@ -318,12 +318,12 @@
     },
     {
       "questionId": 28,
-      "questionMatrix": "A,S,H,X,X,X,X,X,H,X,H,E,R,X,H,A,R,E,X,A,X,X,R,X,A,X,S,X,X,E,X,R,X,H,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X”,
+      "questionMatrix": "A,S,H,X,X,X,X,X,H,X,H,E,R,X,H,A,R,E,X,A,X,X,R,X,A,X,S,X,X,E,X,R,X,H,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
       
       "letters": "H,S,A,R,E",
-      "colorBombIndex” :15,
+      "colorBombIndex" :15,
       "verticalBombIndex":-1,
-      "horizontalBombIndex”: 22,
+      "horizontalBombIndex": 22,
       "localBombIndex": -1,
       "chocolateIndexes":[],
       "time":-1,
@@ -362,15 +362,15 @@
     },{
       "questionId": 29,
       "questionMatrix": 
-"X,A,I,M,X,X,X,X,X,D,X,X,X,X,X,M,E,D,I,A,X,X,X,A,X,X,I,X,X,X,X,M,A,D,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X”,
+"X,A,I,M,X,X,X,X,X,D,X,X,X,X,X,M,E,D,I,A,X,X,X,A,X,X,I,X,X,X,X,M,A,D,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
       
       "letters": "I,M,E,D,A",
-      "colorBombIndex” :-1,
-      "verticalBombIndex”:17,
-      "horizontalBombIndex”:-1,
+      "colorBombIndex" :-1,
+      "verticalBombIndex":17,
+      "horizontalBombIndex":-1,
       "localBombIndex": 16,
-      "chocolateIndexes”:[],
-      "time”:-1,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "MEDIA",
@@ -401,11 +401,11 @@
     },
     {
       "questionId": 30,
-      "questionMatrix": "X,H,X,U,X,H,X,X,O,X,S,H,O,E,X,S,U,E,X,U,X,X,E,X,X,X,S,X,X,X,X,S,H,E,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X”,
+      "questionMatrix": "X,H,X,U,X,H,X,X,O,X,S,H,O,E,X,S,U,E,X,U,X,X,E,X,X,X,S,X,X,X,X,S,H,E,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
       
       "letters": "H,U,O,S,E",
-      "colorBombIndex” :-1,
-      "verticalBombIndex”:11,
+      "colorBombIndex" :-1,
+      "verticalBombIndex":11,
       "horizontalBombIndex":-1,
       "localBombIndex": 12,
       "chocolateIndexes":[],
@@ -433,7 +433,7 @@
            },
            {
             "word" : "HOUSE",
-            "index” : 5,
+            "index" : 5,
             "direction": 1
            },
            {
