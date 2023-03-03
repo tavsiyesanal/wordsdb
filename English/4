@@ -358,70 +358,75 @@
       ]
     },{
       "questionId": 39,
-      "questionMatrix": "X,X,X,X,X,X,X,X,X,K,X,X,S,X,X,K,A,N,S,E,R,X,X,R ,X,X,R,X,X,S,E ,R ,X,A ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
+      "questionMatrix": "X,A,X,L,O,G,X,X,L,X,O,X,O,X,L,O,A,N,X,A,X,X,N,X,G,X,L,X,X,G,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
       
-      "letters": "A,K,S,N,E,R",
-      "colorBombIndex" :16,
+      "letters": "L,O,N,A,G",
+      "colorBombIndex" :-1,
       "verticalBombIndex":-1,
-      "horizontalBombIndex":-1,
-      "localBombIndex": -1,
+      "horizontalBombIndex":10,
+      "localBombIndex": 15,
       "words":[
           {
-            "word" : "KANSER",
-            "index" : 15,
+            "word" : "LOAN",
+            "index" : 14,
             "direction": 0
            },
            {
-            "word" : "SER",
-            "index" : 29,
+            "word" : "ALONG",
+            "index" : 1,
+            "direction": 1
+           },
+           {
+            "word" : "GOAL",
+            "index" : 5,
+            "direction": 1
+           },
+           {
+            "word" : "LONG",
+            "index" : 3,
+            "direction": 1
+           },
+           {
+            "word" : "LOG",
+            "index" : 3,
             "direction": 0
-           },
-           {
-            "word" : "SERA",
-            "index" : 12,
-            "direction": 1
-           },
-           {
-            "word" : "KARE",
-            "index" : 9,
-            "direction": 1
            }
       ]
     },
     {
       "questionId": 40,
-      "questionMatrix": "X,X,X,X,X,X,X,X,İ,L,L,E,T,X,X,X,İ,X,L,X,X,X,X,S,İ,T,E,X,X,X,T,X,İ ,X,X,X,S,E,L ,X,X,X,X,X,X,X,X,X,X",
+      "questionMatrix": "X,X,X,X,S,X,X,X,X,X,L,I,C,E,X,X,S,X,L,X,X,S,L,I,C,K,X,X,X,X,C,X,X,X,X,L,I,K,E,X,X,X,X,X,X,X,X,X,X",
       
-      "letters": "L,L,İ,E,T,S",
-      "colorBombIndex" :23,
-      "verticalBombIndex":24,
-      "horizontalBombIndex":16,
-      "localBombIndex": -1,
+      "letters": "S,L,C,I,E,K",
+      "colorBombIndex" :11,
+      "verticalBombIndex":38,
+      "horizontalBombIndex":-1,
+      "localBombIndex": 23,
       "words":[
           {
-            "word" : "LİSTE",
-            "index" : 9,
+            "word" : "SILK",
+            "index" : 4,
             "direction": 1
            },
            {
-            "word" : "İLLET",
-            "index" : 8,
+            "word" : "LICE",
+            "index" : 10,
             "direction": 0
            },
            {
-            "word" : "SİTE",
-            "index" : 23,
+            "word" : "SLICK",
+            "index" : 21,
             "direction": 0
            },
            {
-            "word" : "SEL",
-            "index" : 36,
-            "direction": 0
-           },
-           {
-            "word" : "ELTİ",
-            "index" : 11,
+            "word" : "SICK",
+            "index" : 16,
             "direction": 1
+           },
+           {
+            "word" : "LIKE",
+            "index" : 35,
+            "direction": 0
            }
       ]
     }
