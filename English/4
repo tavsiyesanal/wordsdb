@@ -2,139 +2,184 @@
   "questions": [
     {
       "questionId": 31,
-      "questionMatrix":"X,X,X,X,X,S,X,X,S,A,N,D,A,L,X,X,S,X,X,N,X,N,A ,L,X,X,A,X,X,X,A,S,A ,L,X,X,X,N,X,X,X,X,X,X,X,X,X,X,X",
+      "questionMatrix":"X,A,C,N,E,X,X,X,X,A,X,X,D,X,X,A,N,D,X,A,X,X,X,X,E,X,C,X,X,D,A,N,C,E,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
       
-      "letters": "A,N,S,D,A,L",
-      "colorBombIndex" :12,
-      "verticalBombIndex":-1,
-      "horizontalBombIndex":23,
-      "localBombIndex": -1,
+      "letters": "D,C,E,N,A",
+      "colorBombIndex" :-1,
+      "verticalBombIndex":32,
+      "horizontalBombIndex":-1,
+      "localBombIndex": 16,
       "words":[
           {
-            "word" : "SANDAL",
-            "index" : 8,
+            "word" : "ACNE",
+            "index" : 1,
             "direction": 0
            },
            {
-            "word" : "NAL",
-            "index" : 21,
+            "word" : "CAN",
+            "index" : 2,
+            "direction": 1
+           },
+           {
+            "word" : "DANCE",
+            "index" : 29,
             "direction": 0
            },
            {
-            "word" : "ASLAN",
-            "index" : 9,
+            "word" : "DACE",
+            "index" : 12,
             "direction": 1
            },
            {
-            "word" : "SANAL",
-            "index" : 5,
+            "word" : "DEN",
+            "index" : 17,
             "direction": 1
            },
            {
-            "word" : "ASAL",
-            "index" : 30,
+            "word" : "AND",
+            "index" : 15,
             "direction": 0
            }
       ]
     },
     {
       "questionId": 32,
-      "questionMatrix": "X,X,X,X,X,X,X,X,K,A,Y,M,A,K,X,A,X,X,X,X,A,X,Y,X,Y,X,X,Y ,K,A,Y,A ,X,X,X,X,K,X,K,X,X,X,X,X,X,A ,X,X,X",
+      "questionMatrix": "X,X,X,X,R,A,P,P,A,R,X,E,X,A,R,X,E,X,P,X,Y,A,X,A,X,A,X,X,Y,X,P,A,Y,E,R,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
       
-      "letters": "A,Y,K,A,K,M",
-      "colorBombIndex" :31,
+      "letters": "P,R,E,A,Y",
+      "colorBombIndex" :6,
       "verticalBombIndex":-1,
-      "horizontalBombIndex":13,
+      "horizontalBombIndex":21,
       "localBombIndex": -1,
       "words":[
           {
-            "word" : "KAYMAK",
-            "index" : 8,
+            "word" : "PAR",
+            "index" : 7,
             "direction": 0
            },
            {
-            "word" : "KAYAK",
-            "index" : 8,
+            "word" : "PRAY",
+            "index" : 7,
             "direction": 1
            },
            {
-            "word" : "KAYA",
-            "index" : 28,
+            "word" : "PAYER",
+            "index" : 30,
             "direction": 0
            },
            {
-            "word" : "YAKA",
+            "word" : "RAP",
             "index" : 24,
             "direction": 1
            },
            {
-            "word" : "KAY",
-            "index" : 13,
+            "word" : "REPAY",
+            "index" : 4,
+            "direction": 1
+           },
+           {
+            "word" : "REAP",
+            "index" : 9,
+            "direction": 1
+           },
+           {
+            "word" : "PAY",
+            "index" : 6,
             "direction": 1
            }
       ]
     },
     {
       "questionId": 33,
-      "questionMatrix": "X,X,X,X,X,X,X,X,X,M,X,X,X,K,X,K,A,T,M,E,R,X,X,R,X,X,X,E,X,X,K,X,X,X,M ,X,T,E,M,A ,X,X,X,X,T ,X,X,X,X",
+      "questionMatrix": "X,X,D,I,E,X,X,L,X,X,D,X,X,X,E,X,D,E,A,L,X,A,X,X,A,X,I,X,D,I,A,L,X,D,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
       
-      "letters": "T,E,M,K,A,R",
-      "colorBombIndex" :16,
-      "verticalBombIndex":20,
-      "horizontalBombIndex":-1,
-      "localBombIndex": -1,
+      "letters": "D,A,L,E,I",
+      "colorBombIndex" :-1,
+      "verticalBombIndex":4,
+      "horizontalBombIndex":24,
+      "localBombIndex": 17,
       "words":[
           {
-            "word" : "KATMER",
-            "index" : 15,
+            "word" : "DIE",
+            "index" : 2,
             "direction": 0
            },
            {
-            "word" : "MARKET",
-            "index" : 9,
+            "word" : "IDEAL",
+            "index" : 3,
             "direction": 1
            },
            {
-            "word" : "TEMA",
-            "index" : 36,
+            "word" : "LEAD",
+            "index" : 7,
+            "direction": 1
+           },
+           {
+            "word" : "DIAL",
+            "index" : 28,
             "direction": 0
            },
            {
-            "word" : "KREM",
-            "index" : 13,
+            "word" : "LID",
+            "index" : 19,
             "direction": 1
+           },
+           {
+            "word" : "DEAL",
+            "index" : 16,
+            "direction": 0
            }
            
       ]
     },
     {
     "questionId": 34,
-      "questionMatrix": "X,X,X,X,X,X,X,X,X,T,X,X,X,X,X,T,E,K,E,R,X,X,X,K,X,R,X,X,X,X,İ,R ,İ,X,X,X,X,R,X,K,X,X,X,X,X,X,X,X,X",
+      "questionMatrix": "X,X,X,X,X,X,S,S,P,I,T,E,X,P,T,X,X,I,X,X,I,E,X,X,P,E,S,T,P,I,E,X,X,E,X,X,X,X,P,E,T,X,X,X,X,X,X,X,X",
       
-      "letters": "T,E,R,İ,K,E",
-      "colorBombIndex" :-1,
-      "verticalBombIndex":8,
-      "horizontalBombIndex":-1,
+      "letters": "S,P,E,T,I",
+      "colorBombIndex" :10,
+      "verticalBombIndex":11,
+      "horizontalBombIndex":14,
       "localBombIndex": -1,
       "words":[
           {
-            "word" : "TEKER",
-            "index" : 8,
+            "word" : "SPITE",
+            "index" : 7,
             "direction": 0
            },
            {
-            "word" : "TEKİR",
-            "index" : 10,
+            "word" : "SET",
+            "index" : 26,
             "direction": 1
            },
           
-            "word" : "ERİK",
-            "index" : 35,
+            "word" : "SPIT",
+            "index" : 6,
+            "direction": 1
+           },
+           {
+            "word" : "PEST",
+            "index" : 24,
+            "direction": 0
+           },
+          
+            "word" : "PET",
+            "index" : 38,
             "direction": 0
            },
            {
-            "word" : "ETEK",
-            "index" : 11,
+            "word" : "PIE",
+            "index" : 28,
+            "direction": 0
+           },
+          
+            "word" : "TIP",
+            "index" : 10,
+            "direction": 1
+           },
+           {
+            "word" : "STEP",
+            "index" : 7,
             "direction": 1
            }
           
@@ -142,136 +187,171 @@
     },
     {
       "questionId": 35,
-      "questionMatrix":"X,X,X,X,X,X,X,X,Z,İ,N,C,İ,R,X,X,N,X,X,Z,X,X,X,C,X,X,İ,Z ,X,X,İ,R,İ,N,X,X,X,R,X,R,X,X,X,X,X,X,İ ,X,X",
+      "questionMatrix":"K,I,T,X,X,X,X,I,X,H,I,N,T,X,N,X,I,X,X,H,X,X,X,N,X,X,I,X,I,N,K,X,X,N,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
       
-      "letters": "C,İ,R,İ,N,Z",
+      "letters": "H,T,I,N,K",
       "colorBombIndex" :9,
       "verticalBombIndex":-1,
-      "horizontalBombIndex":33,
+      "horizontalBombIndex":19,
       "localBombIndex": -1,
       "words":[
           {
-            "word" : "ZİNCİR",
-            "index" : 8,
+            "word" : "THINK",
+            "index" : 2,
+            "direction": 1
+           },
+           {
+            "word" : "KIT",
+            "index" :0,
             "direction": 0
            },
            {
-            "word" : "İNCİR",
+            "word" : "KIN",
+            "index" : 0,
+            "direction": 1
+           },
+           {
+            "word" : "HINT",
             "index" : 9,
-            "direction": 1
-           },
-           {
-            "word" : "İRİN",
-            "index" : 30,
             "direction": 0
            },
            {
-            "word" : "İRİ",
-            "index" : 32,
-            "direction": 1
-           },
-           {
-            "word" : "İZİN",
+            "word" : "THIN",
             "index" : 12,
             "direction": 1
            },
            {
-            "word" : "İZ",
-            "index" : 26,
+            "word" : "INK",
+            "index" : 28,
             "direction": 0
            },
       ]
     },
     {
       "questionId": 36,
-      "questionMatrix": "X,X,X,X,X,X,X,X,A,S,K,E,R,X,X,K,X,A,X,X,X,X,S,E,R,A,X,X,X,İ,X,E ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
+      "questionMatrix": "X,M,A,T,C,H,X,P,X,X,X,X,A,X,A,X,C,H,A,T,X,T,X,A,X,X,X,X,H,A,M,X,X,X,X,X,X,P,A,T,C,H,X,X,X,X,X,X,X",
       
-      "letters": "K,E,R,S,A,İ",
-      "colorBombIndex" :23,
-      "verticalBombIndex":-1,
-      "horizontalBombIndex":24,
+      "letters": "P,A,H,T,M,C",
+      "colorBombIndex" :28,
+      "verticalBombIndex":18,
+      "horizontalBombIndex":21,
       "localBombIndex": -1,
       "words":[
           {
-            "word" : "ASKER",
-            "index" : 8,
+            "word" : "PATH",
+            "index" : 7,
+            "direction": 1
+           },
+           {
+            "word" : "MATCH",
+            "index" : 1,
             "direction": 0
            },
            {
-            "word" : "AKSİ",
-            "index" : 8,
+            "word" : "PATCH",
+            "index" : 37,
+            "direction": 0
+           },
+           {
+            "word" : "HAT",
+            "index" : 5,
             "direction": 1
            },
            {
-            "word" : "KARE",
-            "index" : 10,
+            "word" : "CAMP",
+            "index" : 16,
             "direction": 1
            },
            {
-            "word" : "SERA",
-            "index" : 22,
+            "word" : "HAM",
+            "index" : 28,
+            "direction": 0
+           },
+           {
+            "word" : "CHAT",
+            "index" : 16,
             "direction": 0
            }
       ]
     },{
       "questionId": 37,
-      "questionMatrix": "X,X,X,X,X,X,X,X,X,K,X,X,X,X,X,K,A,S,K,E,T,X,X,S,X,X,X,A,X,K,E,K ,X,X,K,X,X,T,X,X,X,K,X,X,X,X,X,X,E ",
+      "questionMatrix": "C,X,X,T,X,C,X,H,A,T,E,X,A,X,E,X,X,A,C,T,X,A,X,X,C,X,X,X,T,X,C,H,A,T,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
       
-      "letters": "K,E,T,S,A,K",
-      "colorBombIndex" :30,
-      "verticalBombIndex":-1,
-      "horizontalBombIndex":16,
+      "letters": "C,T,A,H,E",
+      "colorBombIndex" :10,
+      "verticalBombIndex":9,
+      "horizontalBombIndex":21,
       "localBombIndex": -1,
       "words":[
           {
-            "word" : "KASKET",
-            "index" : 15,
-            "direction": 0
-           },
-           {
-            "word" : "KASET",
-            "index" : 9,
+            "word" : "CHEAT",
+            "index" : 0,
             "direction": 1
            },
            {
-            "word" : "KEK",
-            "index" : 29,
+            "word" : "TEACH",
+            "index" : 3,
+            "direction": 1
+           },
+           {
+            "word" : "CHAT",
+            "index" : 30,
             "direction": 0
            },
            {
-            "word" : "TAKKE",
-            "index" : 20,
+            "word" : "ACT",
+            "index" : 17,
+            "direction": 0
+           },
+           {
+            "word" : "CAT",
+            "index" : 5,
             "direction": 1
+           },
+           {
+            "word" : "HATE",
+            "index" : 7,
+            "direction": 0
            }
       ]
     },
     {
       "questionId": 38,
-      "questionMatrix": "X,X,X,X,X,X,X,X,X,M,X,X,A,X,X,K,E,M,A,N,X,X,X,K,X,X,İ,X,X,X,A,N,E,M,İ,X,X,N,X,X,E,X,X,X,X,X,X,X,X",
+      "questionMatrix": "H,X,X,S,H,O,T,O,X,X,O,X,X,H,S,H,O,U,T,X,U,T,X,X,T,X,X,S,X,X,S,H,U,T,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
       
-      "letters": "K,A,M,E,N,İ",
-      "colorBombIndex" :16,
-      "verticalBombIndex":17,
-      "horizontalBombIndex":-1,
-      "localBombIndex": -1,
+      "letters": "S,O,U,H,T",
+      "colorBombIndex" :3,
+      "verticalBombIndex":32,
+      "horizontalBombIndex":7,
+      "localBombIndex": 17,
       "words":[
           {
-            "word" : "KEMAN",
-            "index" : 15,
+            "word" : "HOST",
+            "index" : 0,
             "direction": 1
            },
            {
-            "word" : "MEKAN",
-            "index" : 9,
+            "word" : "SHOUT",
+            "index" : 14,
+            "direction": 0
+           },
+           {
+            "word" : "SOUTH",
+            "index" : 3,
             "direction": 1
            },
            {
-            "word" : "ANİME",
-            "index" : 12,
+            "word" : "THUS",
+            "index" : 6,
             "direction": 1
            },
            {
-            "word" : "ANEMİ",
+            "word" : "SHOT",
+            "index" : 3,
+            "direction": 0
+           },
+           {
+            "word" : "SHUT",
             "index" : 30,
             "direction": 0
            }
