@@ -1,0 +1,413 @@
+{
+  "questions": [
+    {
+      "questionId": 41,
+      "questionMatrix":"X,X,X,F,X,F,X,X,R,X,A,X,A,X,X,A,F,T,E,R,X,X,T,X,X,X,X,X,F,E,A,R,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
+      
+      "letters": "F,E,T,R,A",
+      "colorBombIndex" :-1,
+      "verticalBombIndex":-1,
+      "horizontalBombIndex":8,
+      "localBombIndex": 17,
+      "words":[
+          {
+            "word" : "RATE",
+            "index" :8,
+            "direction": 1
+           },
+           {
+            "word" : "FEAR",
+            "index" : 28,
+            "direction": 0
+           },
+           {
+            "word" : "FAT",
+            "index" : 3,
+            "direction": 1
+           },
+           {
+            "word" : "FAR",
+            "index" : 5,
+            "direction": 1
+           },
+           {
+            "word" : "AFTER",
+            "index" : 15,
+            "direction": 0
+           }
+      ]
+    },
+    {
+      "questionId": 42,
+      "questionMatrix": "X,X,X,X,H,I,T,X,T,I,R,E,X,I,X,X,X,X,I,X,E,T,H,E,I,R,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
+      
+      "letters": "T,H,I,E,R",
+      "colorBombIndex" :11,
+      "verticalBombIndex":-1,
+      "horizontalBombIndex":18,
+      "localBombIndex": -1,
+      "words":[
+          {
+            "word" : "HIT",
+            "index" : 4,
+            "direction": 0
+           },
+           {
+            "word" : "HEIR",
+            "index" : 4,
+            "direction": 1
+           },
+           {
+            "word" : "TIRE",
+            "index" : 8,
+            "direction": 0
+           },
+           {
+            "word" : "THEIR",
+            "index" : 21,
+            "direction": 0
+           },
+           {
+            "word" : "TIE",
+            "index" : 6,
+            "direction": 1
+           }
+      ]
+    },
+    {
+      "questionId": 43,
+      "questionMatrix": "L,A,S,T,X,X,X,E,X,A,X,S,X,X,A,X,L,A,T,E,X,S,X,E,X,E,X,X,T,X,X,X,A,X,X,X,X,S,A,L,T,X,X,X,X,X,X,X,X",
+      
+      "letters": "L,E,S,A,T",
+      "colorBombIndex" :-1,
+      "verticalBombIndex":38,
+      "horizontalBombIndex":7,
+      "localBombIndex": 18,
+      "words":[
+          {
+            "word" : "LEAST",
+            "index" : 0,
+            "direction": 1
+           },
+           {
+            "word" : "LAST",
+            "index" : 0,
+            "direction": 0
+           }
+           {
+            "word" : "LATE",
+            "index" : 16,
+            "direction": 0
+           },
+           {
+            "word" : "STEAL",
+            "index" : 11,
+            "direction": 1
+           },
+           {
+            "word" : "SALT",
+            "index" : 37,
+            "direction": 0
+           },
+           {
+            "word" : "SALE",
+            "index" : 2,
+            "direction": 1
+           }
+           
+      ]
+    },
+    {
+    "questionId": 44,
+      "questionMatrix": "X,R,A,I,L,X,X,P,X,P,X,I,X,X,A,I,R,X,P,X,X,I,X,I,X,X,X,X,R,X,L,I,A,R,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
+      
+      "letters": "A,I,L,P,R",
+      "colorBombIndex" :16,
+      "verticalBombIndex":-1,
+      "horizontalBombIndex":7,
+      "localBombIndex": -1,
+      "words":[
+          {
+            "word" : "RAIL",
+            "index" : 1,
+            "direction": 0
+           },
+           {
+            "word" : "PAIR",
+            "index" : 7,
+            "direction": 1
+           },
+          {
+            "word" : "LIP",
+            "index" : 4,
+            "direction": 1
+           },
+           {
+            "word" : "LIAR",
+            "index" : 30,
+            "direction": 0
+           },
+          {
+            "word" : "APRIL",
+            "index" : 2,
+            "direction": 1
+           },
+          {
+            "word" : "AIR",
+            "index" : 14,
+            "direction": 0
+           }
+      ]
+    },
+    {
+      "questionId": 45,
+      "questionMatrix":"X,R,E,A,L,X,X,X,X,X,X,A,X,X,X,G,L,A,R,E,X,X,E,X,X,G,X,X,X,L,X,L,E,G,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
+      
+      "letters": "G,R,A,L,E",
+      "colorBombIndex" :4,
+      "verticalBombIndex":-1,
+      "horizontalBombIndex":-1,
+      "localBombIndex": 18,
+      "words":[
+          {
+            "word" : "REAL",
+            "index" : 2,
+            "direction": 0
+           },
+           {
+            "word" : "GLARE",
+            "index" :15,
+            "direction": 0
+           },
+           {
+            "word" : "LARGE",
+            "index" :4,
+            "direction": 1
+           },
+           {
+            "word" : "LEG",
+            "index" :31,
+            "direction": 0
+           },
+           {
+            "word" : "GEL",
+            "index" : 15,
+            "direction": 1
+           }
+      ]
+    },
+    {
+      "questionId": 46,
+      "questionMatrix": "X,R,X,P,I,E,X,X,I,R,E,X,X,X,X,G,X,G,R,I,M,X,X,X,X,I,X,X,X,P,R,I,M,E,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
+      
+      "letters": "P,I,R,M,E,G",
+      "colorBombIndex" : 3,
+      "verticalBombIndex" : 5,
+      "horizontalBombIndex" : -1,
+      "localBombIndex" : 18,
+      "words":[
+          {
+            "word" : "PIE",
+            "index" : 3,
+            "direction": 0
+           },
+           {
+            "word" : "RIM",
+            "index" : 18,
+            "direction": 1
+           },
+           {
+            "word" : "GRIM",
+            "index" : 17,
+            "direction": 0
+           },
+           {
+            "word" : "RIG",
+            "index" : 1,
+            "direction": 1
+           },
+           {
+            "word" : "IRE",
+            "index" : 8,
+            "direction": 0
+           },
+           {
+            "word" : "PRIME",
+            "index" : 29,
+            "direction": 0
+           },
+           {
+            "word" : "PEG",
+            "index" : 3,
+            "direction": 1
+           }
+      ]
+    },{
+      "questionId": 47,
+      "questionMatrix": "C,X,X,T,X,C,X,H,A,T,E,X,A,X,E,X,X,A,C,T,X,A,X,X,C,X,X,X,T,X,C,H,A,T,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
+      
+      "letters": "C,T,A,H,E",
+      "colorBombIndex" :10,
+      "verticalBombIndex":9,
+      "horizontalBombIndex":21,
+      "localBombIndex": -1,
+      "words":[
+          {
+            "word" : "CHEAT",
+            "index" : 0,
+            "direction": 1
+           },
+           {
+            "word" : "TEACH",
+            "index" : 3,
+            "direction": 1
+           },
+           {
+            "word" : "CHAT",
+            "index" : 30,
+            "direction": 0
+           },
+           {
+            "word" : "ACT",
+            "index" : 17,
+            "direction": 0
+           },
+           {
+            "word" : "CAT",
+            "index" : 5,
+            "direction": 1
+           },
+           {
+            "word" : "HATE",
+            "index" : 7,
+            "direction": 0
+           }
+      ]
+    },
+    {
+      "questionId": 48,
+      "questionMatrix": "T,E,S,T,X,X,X,X,X,T,X,X,T,X,S,E,A,T,X,A,X,E,X,T,X,X,S,X,T,X,E,A,S,T,X,X,X,X,X,X,E,X,X,X,X,X,X,X,X",
+      
+      "letters": "T,S,T,A,E",
+      "colorBombIndex" :14,
+      "verticalBombIndex":-1,
+      "horizontalBombIndex":9,
+      "localBombIndex": 16,
+      "words":[
+          {
+            "word" : "TEST",
+            "index" : 0,
+            "direction": 0
+           },
+           {
+            "word" : "SEAT",
+            "index" : 14,
+            "direction": 0
+           },
+           {
+            "word" : "TASTE",
+            "index" : 12,
+            "direction": 1
+           },
+           {
+            "word" : "STATE",
+            "index" : 2,
+            "direction": 1
+           },
+           {
+            "word" : "EAST",
+            "index" : 30,
+            "direction": 0
+           },
+           {
+            "word" : "SET",
+            "index" : 14,
+            "direction": 1
+           }
+      ]
+    },{
+      "questionId": 49,
+      "questionMatrix": "X,X,X,X,B,X,X,X,B,O,W,L,X,E,X,E,X,X,O,X,L,X,L,X,X,W,E,B,X,O,X,X,X,X,O,X,W,X,X,B,O,W,X,X,X,X,X,X,X",
+      
+      "letters": "L,O,B,W,E",
+      "colorBombIndex" :11,
+      "verticalBombIndex":-1,
+      "horizontalBombIndex":15,
+      "localBombIndex": -1,
+      "words":[
+          {
+            "word" : "BELOW",
+            "index" : 8,
+            "direction": 1
+           },
+           {
+            "word" : "BOWL",
+            "index" : 8,
+            "direction": 0
+           },
+           {
+            "word" : "BLOW",
+            "index" : 4,
+            "direction": 1
+           },
+           {
+            "word" : "WEB",
+            "index" : 25,
+            "direction": 0
+           },
+           {
+            "word" : "ELBOW",
+            "index" : 13,
+            "direction": 1
+           },
+           {
+            "word" : "BOW",
+            "index" : 39,
+            "direction": 0
+           }
+      ]
+    },
+    {
+      "questionId": 50,
+      "questionMatrix": "S,E,T,X,S,X,X,T,X,A,X,E,X,X,A,X,S,E,A,T,X,T,X,T,X,X,E,X,E,X,E,X,X,A,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
+      
+      "letters": "S,T,E,T,A",
+      "colorBombIndex" :16,
+      "verticalBombIndex":-1,
+      "horizontalBombIndex":-1,
+      "localBombIndex": -1,
+      "words":[
+          {
+            "word" : "STATE",
+            "index" : 0,
+            "direction": 1
+           },
+           {
+            "word" : "SET",
+            "index" : 0,
+            "direction": 0
+           },
+           {
+            "word" : "TASTE",
+            "index" : 2,
+            "direction": 1
+           },
+           {
+            "word" : "SEAT",
+            "index" : 16,
+            "direction": 0
+           },
+           {
+            "word" : "TEA",
+            "index" : 19,
+            "direction": 1
+           },
+           {
+            "word" : "SEA",
+            "index" : 4,
+            "direction": 1
+           }
+      ]
+    }
+  ]
+}
