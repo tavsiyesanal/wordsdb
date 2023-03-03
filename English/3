@@ -90,35 +90,40 @@
     },
     {
       "questionId": 23,
-      "questionMatrix": "X,X,X,X,E,X,X,X,E,D,E,B,İ,X,X,X,E,X,E,X,X,X,X,B,İ,D,E,X,X,X,İ,X,İ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
+      "questionMatrix": "X,X,B,X,B,X,X,X,B,E,G,I,N,X,X,X,I,X,G,X,X,B,I,N,X,X,X,X,E,X,G,X,X,X,X,G,X,X,X,X,X,X,X,X,X,X,X,X,X",
      
-      "letters": "E,İ,D,E,B",
+      "letters": "B,E,N,I,G",
       "colorBombIndex" :-1,
-      "verticalBombIndex":-1,
+      "verticalBombIndex":18,
       "horizontalBombIndex":-1,
-      "localBombIndex": 11,
+      "localBombIndex": 9,
       "chocolateIndexes":[],
       "time":-1,
       "words":[
           {
-            "word" : "EDEBİ",
+            "word" : "BEING",
+            "index" : 2,
+            "direction": 1
+           },
+           {
+            "word" : "BEG",
+            "index" : 21,
+            "direction": 1
+           },
+           {
+            "word" : "BIG",
+            "index" : 4,
+            "direction": 1
+           },
+           {
+            "word" : "BEGIN",
             "index" : 8,
             "direction": 0
            },
            {
-            "word" : "BİDE",
-            "index" : 28,
+            "word" : "BIN",
+            "index" : 21,
             "direction": 0
-           },
-           {
-            "word" : "DEBİ",
-            "index" : 9,
-            "direction": 1
-           },
-           {
-            "word" : "EBEDİ",
-            "index" : 4,
-            "direction": 1
            }
       ]
     },
