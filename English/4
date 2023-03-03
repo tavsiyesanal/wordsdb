@@ -152,7 +152,7 @@
             "index" : 26,
             "direction": 1
            },
-          
+          {
             "word" : "SPIT",
             "index" : 6,
             "direction": 1
@@ -162,7 +162,7 @@
             "index" : 24,
             "direction": 0
            },
-          
+          {
             "word" : "PET",
             "index" : 38,
             "direction": 0
@@ -172,7 +172,7 @@
             "index" : 28,
             "direction": 0
            },
-          
+          {
             "word" : "TIP",
             "index" : 10,
             "direction": 1
@@ -232,10 +232,10 @@
       "questionMatrix": "X,M,A,T,C,H,X,P,X,X,X,X,A,X,A,X,C,H,A,T,X,T,X,A,X,X,X,X,H,A,M,X,X,X,X,X,X,P,A,T,C,H,X,X,X,X,X,X,X",
       
       "letters": "P,A,H,T,M,C",
-      "colorBombIndex" :28,
-      "verticalBombIndex":18,
-      "horizontalBombIndex":21,
-      "localBombIndex": -1,
+      "colorBombIndex" : 28,
+      "verticalBombIndex" : 18,
+      "horizontalBombIndex" : 21,
+      "localBombIndex" : -1,
       "words":[
           {
             "word" : "PATH",
