@@ -2,75 +2,95 @@
   "questions": [
     {
       "questionId": 21,
-      "questionMatrix": "X,X,X,X,X,X,X,X,X,X,X,A,X,X,X,X,E,C,Z,A,X,X,X,X,E,X,X,X,X,K,E,Z,A,X,X,X,X,X,A,X,X,X,X,X,X,X,X,X,X",
+      "questionMatrix": "X,R,X,X,P,I,E,P,I,C,X,R,X,X,X,C,X,X,I,C,E,X,E,P,I,C,X,X,X,X,X,X,E,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
       
-      "letters": "E,Z,C,A,K",
-      "colorBombIndex" :31,
-      "verticalBombIndex":16,
+      "letters": P,R,C,E,I",
+      "colorBombIndex" :4,
+      "verticalBombIndex":23,
       "horizontalBombIndex":-1,
-      "localBombIndex": -1,
-      "chocolateIndexes":[29],
-      "time":20,
+      "localBombIndex": 8,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
-            "word" : "AZ",
-            "index" : 11,
+            "word" : "PRICE",
+            "index" : 4,
             "direction": 1
            },
            {
-            "word" : "ECZA",
-            "index" : 16,
+            "word" : "RICE",
+            "index" : 1,
+            "direction": 1
+           },
+           {
+            "word" : "PIC",
+            "index" : 7,
+            "direction": 1
+           },
+           {
+            "word" : "EPIC",
+            "index" : 22,
             "direction": 0
            },
            {
-            "word" : "CEZA",
-            "index" : 17,
-            "direction": 1
+            "word" : "ICE",
+            "index" : 18,
+            "direction": 0
            },
            {
-            "word" : "KEZA",
-            "index" : 29,
+            "word" : "PIE",
+            "index" : 4,
             "direction": 0
            }
       ]
     },
     {
       "questionId": 22,
-      "questionMatrix": "X,K,E,S,İ,K,X,X,X,X,X,S,X,X,X,X,S,İ,T,E,X,X,X,X,X,E,X,X,X,E,T,İ,K,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X"
+      "questionMatrix": "L,X,L,O,R,D,X,O,X,X,W,X,X,X,W,O,R,L,D,X,X,X,X,O,X,X,X,X,X,X,W,O,R,D,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
       
-      "letters": "E,K,İ,T,S",
-      "colorBombIndex" :4,
-      "verticalBombIndex":30,
+      "letters": "W,O,L,D,R",
+      "colorBombIndex" :3,
+      "verticalBombIndex":32,
       "horizontalBombIndex":-1,
       "localBombIndex": -1,
       "chocolateIndexes":[],
       "time":-1,
       "words":[
           {
-            "word" : "KESİT",
-            "index" : 1,
+            "word" : "WORLD",
+            "index" : 14,
             "direction": 0
            },
            {
-            "word" : "İSTEK",
-            "index" : 4,
+            "word" : "LOW",
+            "index" : 0,
             "direction": 1
            },
            {
-            "word" : "SİTE",
-            "index" : 16,
+            "word" : "LORD",
+            "index" : 2,
             "direction": 0
            },
            {
-            "word" : "ETİK",
-            "index" : 29,
+            "word" : "OWL",
+            "index" : 3,
+            "direction": 1
+           },
+           {
+            "word" : "WORD",
+            "index" : 30,
+            "direction": 0
+           },
+           {
+            "word" : "ROW",
+            "index" : 16,
             "direction": 0
            }
       ]
     },
     {
       "questionId": 23,
-      "questionMatrix": "X,X,X,X,E,X,X,X,E,D,E,B,İ,X,X,X,E,X,E,X,X,X,X,B,İ,D,E ,X,X,X,İ,X,İ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
+      "questionMatrix": "X,X,X,X,E,X,X,X,E,D,E,B,İ,X,X,X,E,X,E,X,X,X,X,B,İ,D,E,X,X,X,İ,X,İ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
      
       "letters": "E,İ,D,E,B",
       "colorBombIndex" :-1,
