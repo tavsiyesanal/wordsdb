@@ -4,7 +4,7 @@
       "questionId": 21,
       "questionMatrix": "X,R,X,X,P,I,E,P,I,C,X,R,X,X,X,C,X,X,I,C,E,X,E,P,I,C,X,X,X,X,X,X,E,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
       
-      "letters": P,R,C,E,I",
+      "letters": "P,R,C,E,I",
       "colorBombIndex" :4,
       "verticalBombIndex":23,
       "horizontalBombIndex":-1,
@@ -129,268 +129,321 @@
     },
     {
     "questionId": 24,
-      "questionMatrix": "X,X,X,X,X,X,X,X,D,E,V,İ,R,X,X,X,X,E,X,X,X,X,D,E,R,İ,X,X,X,E,X,İ,X,X,X,X,V,X,X,X,X,X,X,X,X,X,X,X,X",
+      "questionMatrix": "X,S,K,I,N,X,X,X,K,X,X,X,S,X,X,I,N,K,X,I,X,X,X,X,I,N,N,X,X,S,I,N,X,K,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
       
-      "letters": "D,V,İ,R,E",
-      "colorBombIndex" :22,
-      "verticalBombIndex":-1,
+      "letters": "S,N,N,I,K",
+      "colorBombIndex” :15,
+      "verticalBombIndex”:2,
       "horizontalBombIndex":-1,
       "localBombIndex": -1,
       "chocolateIndexes":[],
       "time":-1,
       "words":[
           {
-            "word" : "DEVİR",
-            "index" : 8,
+            "word" : "SKI",
+            "index" : 1,
+            "direction": 1
+           },
+           {
+            "word" : "SKIN",
+            "index" : 1,
             "direction": 0
            },
            {
-            "word" : "VERİ",
-            "index" : 10,
+            "word" : "INK",
+            "index" : 15,
+            "direction": 0
+           },
+           {
+            "word" : "KIN",
+            "index" : 17,
             "direction": 1
            },
            {
-            "word" : "DEV",
-            "index" : 22,
+            "word" : "SINK",
+            "index" : 12,
             "direction": 1
            },
            {
-            "word" : "DERİ",
-            "index" : 22,
+            "word" : "INN",
+            "index" : 24,
             "direction": 0
            }
       ]
     },
     {
       "questionId": 25,
-      "questionMatrix":"X,A,R,D,A,X,X,X,X,A,X,X,X,X,X,X,D,X,D,X,X,X,D,A,R,A,X,X,X,X,R,X,R,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
-      "letters": "H,A,F,E,R",
-      "colorBombIndex" :23,
-      "verticalBombIndex":-1,
+      "questionMatrix":"X,F,O,N,T,X,X,X,X,F,X,X,X,X,F,X,T,O,N,E,X,O,N,E,X,X,X,X,E,X,N,O,T,E,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X”,
+      "letters": "F,N,T,E,O",
+      "colorBombIndex” :2,
+      "verticalBombIndex”:32,
       "horizontalBombIndex":-1,
       "localBombIndex": -1,
       "chocolateIndexes":[],
       "time":-1,
       "words":[
           {
-            "word" : "ARDA",
+            "word" : "FONT",
             "index" : 1,
             "direction": 0
            },
            {
-            "word" : "DAR",
-            "index" : 18,
+            "word" : "OFTEN",
+            "index" : 2,
             "direction": 1
            },
            {
-            "word" : "DARA",
-            "index" : 22,
+            "word" : "TONE",
+            "index" : 16,
             "direction": 0
            },
            {
-            "word" : "RADAR",
-            "index" : 2,
+            "word" : "FOE",
+            "index" : 14,
             "direction": 1
+           },
+           {
+            "word" : "ONE",
+            "index" : 21,
+            "direction": 0
+           },
+           {
+            "word" : "NOTE",
+            "index" : 30,
+            "direction": 0
            }
       ]
     },
     {
       "questionId": 26,
-      "questionMatrix": "X,E,R,E,N,X,X,X,N,X,X,X,D,X,X,D,X,E,D,E,R,X,E,X,X,X,R,X,X,R,E,N,D,E,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
+      "questionMatrix": "X,S,E,N,D,X,X,N,X,X,X,E,X,X,E,X,T,X,N,E,T,S,C,E,N,T,X,E,T,X,N,X,X,X,N,X,X,D,E,N,X,X,X,X,X,X,X,X,X”,
       
-      "letters": "R,N,D,E,E",
+      "letters": "C,N,T,D,S,E",
       "colorBombIndex" :-1,
-      "verticalBombIndex":30,
+      "verticalBombIndex”:3,
       "horizontalBombIndex":-1,
-      "localBombIndex": 19,
+      "localBombIndex": 23,
       "chocolateIndexes":[],
       "time":-1,
       "words":[
           {
-            "word" : "RENDE",
-            "index" : 10,
-            "direction": 0
-           },
-           {
-            "word" : "ENDER",
-            "index" : 1,
-            "direction": 1
-           },
-           {
-            "word" : "EREN",
+            "word" : "SEND",
             "index" : 1,
             "direction": 0
            },
            {
-            "word" : "DERE",
-            "index" : 12,
+            "word" : "DENT",
+            "index" : 4,
             "direction": 1
            },
            {
-            "word" : "EDER",
-            "index" : 17,
+            "word" : "NET",
+            "index" : 18,
             "direction": 0
+           },
+           {
+            "word" : "TEN",
+            "index" : 20,
+            "direction": 1
+           },
+           {
+            "word" : "SCENT",
+            "index" : 21,
+            "direction": 0
+           },
+           {
+            "word" : "DEN",
+            "index" : 37,
+            "direction": 0
+           },
+           {
+            "word" : "NEST",
+            "index" : 7,
+            "direction": 1
+           },
+           {
+            "word" : "TEND",
+            "index" : 16,
+            "direction": 1
            }
       ]
     },{
       "questionId": 27,
-      "questionMatrix": "X,X,X,X,X,X,X,X,X,X,E,M,E,K,X,M,X,Z,X,X,X,X,E,Z,M,E,X,X,X,Z,X,E,X,X,X,X,E,X,K,E,Z,X,X,X,X,X,X,X,X",
+      "questionMatrix": "X,X,X,X,D,I,E,X,X,S,E,E,X,X,X,S,X,X,V,X,X,X,E,X,S,I,D,E,X,E,X,X,S,X,V,X,D,I,V,E,X,E,X,X,X,X,X,X,X",
       
-      "letters": "E,E,K,Z,M",
+      "letters": "D,S,I,E,V,E",
       "colorBombIndex" :-1,
-      "verticalBombIndex":39,
-      "horizontalBombIndex":15,
-      "localBombIndex": -1,
+      "verticalBombIndex”:-1,
+      "horizontalBombIndex”:32,
+      "localBombIndex": 25,
       "chocolateIndexes":[],
       "time":-1,
       "words":[
           {
-            "word" : "EZMEK",
-            "index" : 10,
+            "word" : "DEVISE",
+            "index" : 4,
             "direction": 1
            },
            {
-            "word" : "MEZE",
+            "word" : "DIE",
+            "index" : 4,
+            "direction": 0
+           },
+           {
+            "word" : "SEE",
+            "index" : 9,
+            "direction": 0
+           },
+           {
+            "word" : "SIDE",
+            "index" : 24,
+            "direction": 0
+           },
+           {
+            "word" : "EVE",
+            "index" : 27,
+            "direction": 1
+           },
+           {
+            "word" : "DIVE",
+            "index" : 36,
+            "direction": 0
+           },
+           {
+            "word" : "SEED",
             "index" : 15,
             "direction": 1
-           },
-           {
-            "word" : "KEZ",
-            "index" : 38,
-            "direction": 0
-           },
-           {
-            "word" : "EMEK",
-            "index" : 10,
-            "direction": 0
-           },
-           {
-            "word" : "EZME",
-            "index" : 22,
-            "direction": 0
            }
       ]
     },
     {
       "questionId": 28,
-      "questionMatrix": "X,X,X,X,X,X,X,İ,X,X,B,E,N,X,N,X,X,İ,X,X,X,E,K,İ,N,X,B,X,K,X,X,E,X,İ,X,X,X,X,K,İ,N,X,X,X,X,X,X,X,X",
+      "questionMatrix": "A,S,H,X,X,X,X,X,H,X,H,E,R,X,H,A,R,E,X,A,X,X,R,X,A,X,S,X,X,E,X,R,X,H,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X”,
       
-      "letters": "İ,N,K,B,E",
-      "colorBombIndex" :24,
+      "letters": "H,S,A,R,E",
+      "colorBombIndex” :15,
       "verticalBombIndex":-1,
-      "horizontalBombIndex":-1,
+      "horizontalBombIndex”: 22,
       "localBombIndex": -1,
       "chocolateIndexes":[],
       "time":-1,
       "words":[
           {
-            "word" : "İNEK",
-            "index" : 7,
-            "direction": 1
-           },
-           {
-            "word" : "EKİN",
-            "index" : 21,
+            "word" : "ASH",
+            "index" : 0,
             "direction": 0
            },
            {
-            "word" : "BİNEK",
-            "index" : 10,
-            "direction": 1
+            "word" : "HARE",
+            "index" : 14,
+            "direction": 0
            },
            {
-            "word" : "BEN",
+            "word" : "HER",
             "index" : 10,
             "direction": 0
            },
-            {
-            "word" : "BİN",
-            "index" : 26,
+           {
+            "word" : "RASH",
+            "index" : 10,
             "direction": 1
            },
             {
-            "word" : "KİN",
-            "index" : 38,
-            "direction": 0
+            "word" : "HEAR",
+            "index" : 10,
+            "direction": 1
+           },
+            {
+            "word" : "SHARE",
+            "index" : 1,
+            "direction": 1
            }
       ]
     },{
       "questionId": 29,
-      "questionMatrix": "X,X,X,X,X,X,X,X,X,M,X,M,X,X,X,L,E,H,İ,M,X,X,X,L,X,L,X,X,X,X,İ,X,X,X,X,X,X,H,İ,L,E,X,X,X,X,X,X,X,X",
+      "questionMatrix": 
+"X,A,I,M,X,X,X,X,X,D,X,X,X,X,X,M,E,D,I,A,X,X,X,A,X,X,I,X,X,X,X,M,A,D,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X”,
       
-      "letters": "M,L,E,H,İ",
-      "colorBombIndex" :18,
-      "verticalBombIndex":38,
-      "horizontalBombIndex":9,
-      "localBombIndex": -1,
-      "chocolateIndexes":[15],
-      "time":15,
+      "letters": "I,M,E,D,A",
+      "colorBombIndex” :-1,
+      "verticalBombIndex”:17,
+      "horizontalBombIndex”:-1,
+      "localBombIndex": 16,
+      "chocolateIndexes”:[],
+      "time”:-1,
       "words":[
           {
-            "word" : "MELİH",
-            "index" : 9,
-            "direction": 1
-           },
-           {
-            "word" : "HİLE",
-            "index" : 37,
-            "direction": 0
-           },
-           {
-            "word" : "LEHİM",
+            "word" : "MEDIA",
             "index" : 15,
             "direction": 0
            },
            {
-            "word" : "MİL",
-            "index" : 11,
+            "word" : "IDEA",
+            "index" : 2,
             "direction": 1
+           },
+           {
+            "word" : "AIM",
+            "index" : 1,
+            "direction": 0
+           },
+           {
+            "word" : "AID",
+            "index" : 19,
+            "direction": 1
+           },
+           {
+            "word" : "MAD",
+            "index" : 31,
+            "direction": 0
            }
       ]
     },
     {
       "questionId": 30,
-      "questionMatrix": "X,X,X,X,K,X,X,A,R,A,X,A,X,A,X,X,K,A,R,A,R,X,X,A,X,A,X,K,K,A,R,X,X,X,A,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
+      "questionMatrix": "X,H,X,U,X,H,X,X,O,X,S,H,O,E,X,S,U,E,X,U,X,X,E,X,X,X,S,X,X,X,X,S,H,E,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X”,
       
-      "letters": "A,R,A,R,K",
-      "colorBombIndex" :18,
-      "verticalBombIndex":29,
+      "letters": "H,U,O,S,E",
+      "colorBombIndex” :-1,
+      "verticalBombIndex”:11,
       "horizontalBombIndex":-1,
-      "localBombIndex": -1,
+      "localBombIndex": 12,
       "chocolateIndexes":[],
       "time":-1,
       "words":[
           {
-            "word" : "ARA",
-            "index" : 7,
-            "direction": 0
-           },
-           {
-            "word" : "KAR",
-            "index" : 28,
-            "direction": 0
-           },
-           {
-            "word" : "KARAR",
-            "index" : 16,
-            "direction": 0
-           },
-           {
-            "word" : "AKAR",
-            "index" : 9,
+            "word" : "HOSE",
+            "index" : 8,
             "direction": 1
            },
            {
-            "word" : "KARA",
-            "index" : 4,
+            "word" : "SUE",
+            "index" : 15,
+            "direction": 0
+           },
+           {
+            "word" : "USE",
+            "index" : 3,
             "direction": 1
            },
            {
-            "word" : "ARKA",
-            "index" : 13,
+            "word" : "SHOE",
+            "index" : 10,
+            "direction": 0
+           },
+           {
+            "word" : "HOUSE",
+            "index” : 5,
             "direction": 1
+           },
+           {
+            "word" : "SHE",
+            "index" : 31,
+            "direction": 0
            }
       ]
     }
   ]
 }
+
+
