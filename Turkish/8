@@ -81,94 +81,86 @@
     },
     {
       "questionId": 73,
-      "questionMatrix": "X,D,X,X,X,X,X,X,A,X,X,A,Ç,X,A,L,G,I,X,A,X,Ç,X,I,X,X,L,X,I,X,D,X,X,G,X,X,D,A,L,G,I,Ç,X,X,X,X,X,X,X",
+      "questionMatrix":"X,X,X,X,X,S,X,X,S,A,N,D,A,L,X,X,S,X,X,N,X,N,A,L,X,X,A,X,X,X,A,S,A,L,X,X,X,N,X,X,X,X,X,X,X,X,X,X,X",
       
-      "letters": "D,I,L,A,G,Ç",
-      "colorBombIndex":40,
+      "letters": "A,N,S,D,A,L",
+      "colorBombIndex" :12,
       "verticalBombIndex":-1,
       "horizontalBombIndex":23,
-      "localBombIndex": 16,
+      "localBombIndex": -1,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
-            "word" : "DALGIÇ",
-            "index" : 39,
+            "word" : "SANDAL",
+            "index" : 8,
             "direction": 0
            },
            {
-            "word" : "GIDA",
-            "index" : 16,
-            "direction": 1
-           },
-           {
-            "word" : "AÇI",
-            "index" : 14,
-            "direction": 1
-           },
-           {
-            "word" : "ALGI",
-            "index" : 14,
+            "word" : "NAL",
+            "index" : 21,
             "direction": 0
            },
            {
-            "word" : "DAL",
-            "index" : 1,
+            "word" : "ASLAN",
+            "index" : 9,
             "direction": 1
            },
            {
-            "word" : "ÇALGI",
-            "index" : 12,
+            "word" : "SANAL",
+            "index" : 5,
             "direction": 1
            },
            {
-            "word" : "AÇ",
-            "index" : 11,
+            "word" : "ASAL",
+            "index" : 30,
             "direction": 0
            }
       ]
     },
     {
-    "questionId": 64,
-      "questionMatrix": "A,L,O,X,X,L,X,X,X,V,O,K,A,L,X,X,A,X,X,V,X,K,O,L,A,X,X,X,X,V,X,X,X,X,X,X,A,V,X,X,X,X,X,X,X,X,X,X,X",
+    "questionId": 74,
+      "questionMatrix": "X,Y,A,P,I,T,X,X,X,Y,X,X,I,X,X,X,I,X,X,P,X,T,I,P,X,Y,A,P,X,X,X,X,A,X,A,X,X,X,X,T,X,Y,X,X,X,X,X,X,X",
       
-      "letters": "K,O,L,A,V",
-      "colorBombIndex" :-1,
-      "verticalBombIndex":10,
+      "letters": "P,T,A,Y,I",
+      "colorBombIndex" :5,
+      "verticalBombIndex":-1,
       "horizontalBombIndex":16,
-      "localBombIndex": 12,
+      "localBombIndex": -1,
       "words":[
           {
-            "word" : "ALO",
-            "index" : 0,
+            "word" : "YAPIT",
+            "index" : 1,
             "direction": 0
            },
            {
-            "word" : "OVAL",
-            "index" : 2,
-            "direction": 1
+            "word" : "TIP",
+            "index" : 21,
+            "direction": 0
            },
           
-            "word" : "VOKAL",
-            "index" : 9,
+            "word" : "YAP",
+            "index" : 25,
             "direction": 0
            },
            {
-            "word" : "LAV",
+            "word" : "YAT",
+            "index" : 25,
+            "direction": 1
+           },
+           {
+            "word" : "TIPA",
             "index" : 5,
             "direction": 1
            },
            {
-            "word" : "KOLA",
-            "index" : 21,
+            "word" : "PAY",
+            "index" : 27,
             "direction": 1
            },
            {
-            "word" : "AV",
-            "index" : 36,
-            "direction": 0
-           },
-           {
-            "word" : "OVA",
-            "index" : 22,
+            "word" : "AYIP",
+            "index" : 2,
             "direction": 1
            }
           
