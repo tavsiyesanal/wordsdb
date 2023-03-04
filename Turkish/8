@@ -138,7 +138,7 @@
             "index" : 21,
             "direction": 0
            },
-          
+          {
             "word" : "YAP",
             "index" : 25,
             "direction": 0
@@ -302,7 +302,7 @@
       "questionId": 78,
       "questionMatrix": "X,X,N,X,Y,X,X,X,X,A,X,A,N,I,A,X,Z,X,L,X,X,Y,A,L,N,I,Z,X,X,X,I,X,N,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
       
-      "letters": Y,L,N,A,Z,I",
+      "letters": "Y,L,N,A,Z,I",
       "colorBombIndex" :9,
       "verticalBombIndex":-1,
       "horizontalBombIndex":16,
