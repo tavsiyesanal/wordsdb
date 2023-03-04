@@ -380,53 +380,37 @@
             "direction": 0
            }
       ]
-    },
-    {
+    },{
       "questionId": 80,
-      "questionMatrix": "E,X,X,X,S,E,L,L,İ,S,E,X,B,X,B,X,X,X,B,E,L,İ,X,X,X,İ,X,X,S,E,B,İ,L,X,X,E,X,X,X,E,X,X,X,X,X,X,X,X,X",
+      "questionMatrix": "X,X,K,X,X,X,X,X,K,A,S,K,E,T,X,X,S,X,X,X,A,X,K,E,K,X,X,K,X,X,T,X,X,X,K,X,X,X,X,X,X,E,X,X,X,X,X,X,X",
       
-      "letters": "İ,B,E,S,E,L",
-      "colorBombIndex" :7,
-      "verticalBombIndex":9,
-      "horizontalBombIndex":21,
-      "localBombIndex": 19,
-      "chocolate":[],
+      "letters": "K,E,T,S,A,K",
+      "colorBombIndex" :23,
+      "verticalBombIndex":-1,
+      "horizontalBombIndex":9,
+      "localBombIndex": -1,
+      "chocolateIndexes":[],
       "time":-1,
       "words":[
           {
-            "word" : "ELBİSE",
-            "index" : 0,
+            "word" : "KASKET",
+            "index" : 8,
+            "direction": 0
+           },
+           {
+            "word" : "KASET",
+            "index" : 2,
             "direction": 1
            },
            {
-            "word" : "SEBİL",
-            "index" : 28,
+            "word" : "KEK",
+            "index" : 22,
             "direction": 0
            },
            {
-            "word" : "BİLE",
-            "index" : 18,
+            "word" : "TAKKE",
+            "index" : 13,
             "direction": 1
-           },
-           {
-            "word" : "BEL",
-            "index" :18,
-            "direction": 0
-           },
-           {
-            "word" : "SEL",
-            "index" : 4,
-            "direction": 0
-           },
-           {
-            "word" : "EBE",
-            "index" : 5,
-            "direction": 1
-           },
-           {
-            "word" : "LİSE",
-            "index" : 7,
-            "direction": 0
            }
       ]
     }
