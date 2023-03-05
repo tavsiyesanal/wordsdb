@@ -135,7 +135,7 @@
       "questionId": 5,
       "questionMatrix": "X,X,X,B,A,R,K,X,X,X,R,X,X,X,X,X,B,E,A,R,X,X,X,X,A,X,X,X,X,B,A,K,E,R,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
       
-      "letters": "K,A,K,Z,I",
+      "letters": "B,E,R,A,K",
       "colorBombIndex" :3,
       "verticalBombIndex":19,
       "horizontalBombIndex":-1,
