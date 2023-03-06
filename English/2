@@ -276,8 +276,8 @@
       "words":[
           {
             "word" : "LOUD",
-            "index" : 38,
-            "direction": 1
+            "index" : 30,
+            "direction": 0
            },
            {
             "word" : "COULD",
@@ -320,7 +320,7 @@
            {
             "word" : "CLAP",
             "index" : 1,
-            "direction": 1
+            "direction": 0
            },
            {
             "word" : "PLACE",
