@@ -139,7 +139,7 @@
     {
       "questionId": 25,
       "questionMatrix":"X,A,R,D,A,X,X,X,X,A,X,X,X,X,X,X,D,X,D,X,X,X,D,A,R,A,X,X,X,X,R,X,R,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
-      "letters": "H,A,F,E,R",
+      "letters": "R,D,A,A,R",
       "colorBombIndex" :23,
       "verticalBombIndex":-1,
       "horizontalBombIndex":-1,
