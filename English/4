@@ -1,447 +1,453 @@
 {
-   "questions": [
-     {
-       "questionId": 21,
-       "questionMatrix": "X,R,X,X,P,I,E,P,I,C,X,R,X,X,X,C,X,X,I,C,E,X,E,P,I,C,X,X,X,X,X,X,E,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
-
-       "letters": "P,R,C,E,I",
-       "colorBombIndex" :4,
-       "verticalBombIndex":23,
-       "horizontalBombIndex":-1,
-       "localBombIndex": 8,
-       "chocolateIndexes":[],
-       "time":-1,
-       "words":[
+  "questions": [
+    {
+      "questionId": 31,
+      "questionMatrix":"X,A,C,N,E,X,X,X,X,A,X,X,D,X,X,A,N,D,X,A,X,X,X,X,E,X,C,X,X,D,A,N,C,E,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
+      "letters": "D,C,E,N,A",
+      "colorBombIndex" :-1,
+      "verticalBombIndex":32,
+      "horizontalBombIndex":-1,
+      "localBombIndex": 16,
+      "chocolateIndexes":[],
+      "time":-1,
+      "words":[
+          {
+            "word" : "ACNE",
+            "index" : 1,
+            "direction": 0
+           },
            {
-             "word" : "PRICE",
-             "index" : 4,
-             "direction": 1
-            },
-            {
-             "word" : "RICE",
-             "index" : 1,
-             "direction": 1
-            },
-            {
-             "word" : "PIC",
-             "index" : 7,
-             "direction": 1
-            },
-            {
-             "word" : "EPIC",
-             "index" : 22,
-             "direction": 0
-            },
-            {
-             "word" : "ICE",
-             "index" : 18,
-             "direction": 0
-            },
-            {
-             "word" : "PIE",
-             "index" : 4,
-             "direction": 0
-            }
-       ]
-     },
-     {
-       "questionId": 22,
-       "questionMatrix": "L,X,L,O,R,D,X,O,X,X,W,X,X,X,W,O,R,L,D,X,X,X,X,O,X,X,X,X,X,X,W,O,R,D,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
-
-       "letters": "W,O,L,D,R",
-       "colorBombIndex" :3,
-       "verticalBombIndex":32,
-       "horizontalBombIndex":-1,
-       "localBombIndex": -1,
-       "chocolateIndexes":[],
-       "time":-1,
-       "words":[
+            "word" : "CAN",
+            "index" : 2,
+            "direction": 1
+           },
            {
-             "word" : "WORLD",
-             "index" : 14,
-             "direction": 0
-            },
-            {
-             "word" : "LOW",
-             "index" : 0,
-             "direction": 1
-            },
-            {
-             "word" : "LORD",
-             "index" : 2,
-             "direction": 0
-            },
-            {
-             "word" : "OWL",
-             "index" : 3,
-             "direction": 1
-            },
-            {
-             "word" : "WORD",
-             "index" : 30,
-             "direction": 0
-            },
-            {
-             "word" : "ROW",
-             "index" : 16,
-             "direction": 0
-            }
-       ]
-     },
-     {
-       "questionId": 23,
-       "questionMatrix": "X,X,B,X,B,X,X,X,B,E,G,I,N,X,X,X,I,X,G,X,X,B,I,N,X,X,X,X,E,X,G,X,X,X,X,G,X,X,X,X,X,X,X,X,X,X,X,X,X",
-
-       "letters": "B,E,N,I,G",
-       "colorBombIndex" :-1,
-       "verticalBombIndex":18,
-       "horizontalBombIndex":-1,
-       "localBombIndex": 9,
-       "chocolateIndexes":[],
-       "time":-1,
-       "words":[
+            "word" : "DANCE",
+            "index" : 29,
+            "direction": 0
+           },
            {
-             "word" : "BEING",
-             "index" : 2,
-             "direction": 1
-            },
-            {
-             "word" : "BEG",
-             "index" : 21,
-             "direction": 1
-            },
-            {
-             "word" : "BIG",
-             "index" : 4,
-             "direction": 1
-            },
-            {
-             "word" : "BEGIN",
-             "index" : 8,
-             "direction": 0
-            },
-            {
-             "word" : "BIN",
-             "index" : 21,
-             "direction": 0
-            }
-       ]
-     },
-     {
-     "questionId": 24,
-       "questionMatrix": "X,S,K,I,N,X,X,X,K,X,X,X,S,X,X,I,N,K,X,I,X,X,X,X,I,N,N,X,X,S,I,N,X,K,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
-
-       "letters": "S,N,N,I,K",
-       "colorBombIndex" :15,
-       "verticalBombIndex":2,
-       "horizontalBombIndex":-1,
-       "localBombIndex": -1,
-       "chocolateIndexes":[],
-       "time":-1,
-       "words":[
+            "word" : "DACE",
+            "index" : 12,
+            "direction": 1
+           },
            {
-             "word" : "SKI",
-             "index" : 1,
-             "direction": 1
-            },
-            {
-             "word" : "SKIN",
-             "index" : 1,
-             "direction": 0
-            },
-            {
-             "word" : "INK",
-             "index" : 15,
-             "direction": 0
-            },
-            {
-             "word" : "KIN",
-             "index" : 17,
-             "direction": 1
-            },
-            {
-             "word" : "SINK",
-             "index" : 12,
-             "direction": 1
-            },
-            {
-             "word" : "INN",
-             "index" : 24,
-             "direction": 0
-            }
-       ]
-     },
-     {
-       "questionId": 25,
-       "questionMatrix":"X,F,O,N,T,X,X,X,X,F,X,X,X,X,F,X,T,O,N,E,X,O,N,E,X,X,X,X,E,X,N,O,T,E,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
-       "letters": "F,N,T,E,O",
-       "colorBombIndex" :2,
-       "verticalBombIndex":32,
-       "horizontalBombIndex":-1,
-       "localBombIndex": -1,
-       "chocolateIndexes":[],
-       "time":-1,
-       "words":[
+            "word" : "DEN",
+            "index" : 17,
+            "direction": 1
+           },
            {
-             "word" : "FONT",
-             "index" : 1,
-             "direction": 0
-            },
-            {
-             "word" : "OFTEN",
-             "index" : 2,
-             "direction": 1
-            },
-            {
-             "word" : "TONE",
-             "index" : 16,
-             "direction": 0
-            },
-            {
-             "word" : "FOE",
-             "index" : 14,
-             "direction": 1
-            },
-            {
-             "word" : "ONE",
-             "index" : 21,
-             "direction": 0
-            },
-            {
-             "word" : "NOTE",
-             "index" : 30,
-             "direction": 0
-            }
-       ]
-     },
-     {
-       "questionId": 26,
-       "questionMatrix": "X,S,E,N,D,X,X,N,X,X,X,E,X,X,E,X,T,X,N,E,T,S,C,E,N,T,X,E,T,X,N,X,X,X,N,X,X,D,E,N,X,X,X,X,X,X,X,X,X",
-
-       "letters": "C,N,T,D,S,E",
-       "colorBombIndex" :-1,
-       "verticalBombIndex":3,
-       "horizontalBombIndex":-1,
-       "localBombIndex": 23,
-       "chocolateIndexes":[],
-       "time":-1,
-       "words":[
+            "word" : "AND",
+            "index" : 15,
+            "direction": 0
+           }
+      ]
+    },
+    {
+      "questionId": 32,
+      "questionMatrix": "X,X,X,X,R,A,P,P,A,R,X,E,X,A,R,X,E,X,P,X,Y,A,X,A,X,A,X,X,Y,X,P,A,Y,E,R,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
+      
+      "letters": "P,R,E,A,Y",
+      "colorBombIndex" :6,
+      "verticalBombIndex":-1,
+      "horizontalBombIndex":21,
+      "localBombIndex": -1,
+      "chocolateIndexes":[],
+      "time":-1,
+      "words":[
+          {
+            "word" : "PAR",
+            "index" : 7,
+            "direction": 0
+           },
            {
-             "word" : "SEND",
-             "index" : 1,
-             "direction": 0
-            },
-            {
-             "word" : "DENT",
-             "index" : 4,
-             "direction": 1
-            },
-            {
-             "word" : "NET",
-             "index" : 18,
-             "direction": 0
-            },
-            {
-             "word" : "TEN",
-             "index" : 20,
-             "direction": 1
-            },
-            {
-             "word" : "SCENT",
-             "index" : 21,
-             "direction": 0
-            },
-            {
-             "word" : "DEN",
-             "index" : 37,
-             "direction": 0
-            },
-            {
-             "word" : "NEST",
-             "index" : 7,
-             "direction": 1
-            },
-            {
-             "word" : "TEND",
-             "index" : 16,
-             "direction": 1
-            }
-       ]
-     },{
-       "questionId": 27,
-       "questionMatrix": "X,X,X,X,D,I,E,X,X,S,E,E,X,X,X,S,X,X,V,X,X,X,E,X,S,I,D,E,X,E,X,X,S,X,V,X,D,I,V,E,X,E,X,X,X,X,X,X,X",
-
-       "letters": "D,S,I,E,V,E",
-       "colorBombIndex" :-1,
-       "verticalBombIndex":-1,
-       "horizontalBombIndex":32,
-       "localBombIndex": 25,
-       "chocolateIndexes":[],
-       "time":-1,
-       "words":[
+            "word" : "PRAY",
+            "index" : 7,
+            "direction": 1
+           },
            {
-             "word" : "DEVISE",
-             "index" : 4,
-             "direction": 1
-            },
-            {
-             "word" : "DIE",
-             "index" : 4,
-             "direction": 0
-            },
-            {
-             "word" : "SEE",
-             "index" : 9,
-             "direction": 0
-            },
-            {
-             "word" : "SIDE",
-             "index" : 24,
-             "direction": 0
-            },
-            {
-             "word" : "EVE",
-             "index" : 27,
-             "direction": 1
-            },
-            {
-             "word" : "DIVE",
-             "index" : 36,
-             "direction": 0
-            },
-            {
-             "word" : "SEED",
-             "index" : 15,
-             "direction": 1
-            }
-       ]
-     },
-     {
-       "questionId": 28,
-       "questionMatrix": "A,S,H,X,X,X,X,X,H,X,H,E,R,X,H,A,R,E,X,A,X,X,R,X,A,X,S,X,X,E,X,R,X,H,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
-
-       "letters": "H,S,A,R,E",
-       "colorBombIndex" :15,
-       "verticalBombIndex":-1,
-       "horizontalBombIndex": 22,
-       "localBombIndex": -1,
-       "chocolateIndexes":[],
-       "time":-1,
-       "words":[
+            "word" : "PAYER",
+            "index" : 30,
+            "direction": 0
+           },
            {
-             "word" : "ASH",
-             "index" : 0,
-             "direction": 0
-            },
-            {
-             "word" : "HARE",
-             "index" : 14,
-             "direction": 0
-            },
-            {
-             "word" : "HER",
-             "index" : 10,
-             "direction": 0
-            },
-            {
-             "word" : "RASH",
-             "index" : 12,
-             "direction": 1
-            },
-             {
-             "word" : "HEAR",
-             "index" : 10,
-             "direction": 1
-            },
-             {
-             "word" : "SHARE",
-             "index" : 1,
-             "direction": 1
-            }
-       ]
-     },{
-       "questionId": 29,
-       "questionMatrix": 
- "X,A,I,M,X,X,X,X,X,D,X,X,X,X,X,M,E,D,I,A,X,X,X,A,X,X,I,X,X,X,X,M,A,D,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
-
-       "letters": "I,M,E,D,A",
-       "colorBombIndex" :-1,
-       "verticalBombIndex":17,
-       "horizontalBombIndex":-1,
-       "localBombIndex": 16,
-       "chocolateIndexes":[],
-       "time":-1,
-       "words":[
+            "word" : "RAP",
+            "index" : 24,
+            "direction": 1
+           },
            {
-             "word" : "MEDIA",
-             "index" : 15,
-             "direction": 0
-            },
-            {
-             "word" : "IDEA",
-             "index" : 2,
-             "direction": 1
-            },
-            {
-             "word" : "AIM",
-             "index" : 1,
-             "direction": 0
-            },
-            {
-             "word" : "AID",
-             "index" : 19,
-             "direction": 1
-            },
-            {
-             "word" : "MAD",
-             "index" : 31,
-             "direction": 0
-            }
-       ]
-     },
-     {
-       "questionId": 30,
-       "questionMatrix": "X,H,X,U,X,H,X,X,O,X,S,H,O,E,X,S,U,E,X,U,X,X,E,X,X,X,S,X,X,X,X,S,H,E,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
-
-       "letters": "H,U,O,S,E",
-       "colorBombIndex" :-1,
-       "verticalBombIndex":11,
-       "horizontalBombIndex":-1,
-       "localBombIndex": 12,
-       "chocolateIndexes":[],
-       "time":-1,
-       "words":[
+            "word" : "REPAY",
+            "index" : 4,
+            "direction": 1
+           },
            {
-             "word" : "HOSE",
-             "index" : 1,
-             "direction": 1
-            },
-            {
-             "word" : "SUE",
-             "index" : 15,
-             "direction": 0
-            },
-            {
-             "word" : "USE",
-             "index" : 3,
-             "direction": 1
-            },
-            {
-             "word" : "SHOE",
-             "index" : 10,
-             "direction": 0
-            },
-            {
-             "word" : "HOUSE",
-             "index" : 5,
-             "direction": 1
-            },
-            {
-             "word" : "SHE",
-             "index" : 31,
-             "direction": 0
-            }
-       ]
-     }
-   ]
- }
+            "word" : "REAP",
+            "index" : 9,
+            "direction": 1
+           },
+           {
+            "word" : "PAY",
+            "index" : 6,
+            "direction": 1
+           }
+      ]
+    },
+    {
+      "questionId": 33,
+      "questionMatrix": "X,X,D,I,E,X,X,L,X,X,D,X,X,X,E,X,D,E,A,L,X,A,X,X,A,X,I,X,D,I,A,L,X,D,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
+      
+      "letters": "D,A,L,E,I",
+      "colorBombIndex" :-1,
+      "verticalBombIndex":4,
+      "horizontalBombIndex":24,
+      "localBombIndex": 17,
+      "chocolateIndexes":[],
+      "time":-1,
+      "words":[
+          {
+            "word" : "DIE",
+            "index" : 2,
+            "direction": 0
+           },
+           {
+            "word" : "IDEAL",
+            "index" : 3,
+            "direction": 1
+           },
+           {
+            "word" : "LEAD",
+            "index" : 7,
+            "direction": 1
+           },
+           {
+            "word" : "DIAL",
+            "index" : 28,
+            "direction": 0
+           },
+           {
+            "word" : "LID",
+            "index" : 19,
+            "direction": 1
+           },
+           {
+            "word" : "DEAL",
+            "index" : 16,
+            "direction": 0
+           }
+           
+      ]
+    },
+    {
+    "questionId": 34,
+      "questionMatrix": "X,X,X,X,X,X,S,S,P,I,T,E,X,P,T,X,X,I,X,X,I,E,X,X,P,E,S,T,P,I,E,X,X,E,X,X,X,X,P,E,T,X,X,X,X,X,X,X,X",
+      
+      "letters": "S,P,E,T,I",
+      "colorBombIndex" :10,
+      "verticalBombIndex":11,
+      "horizontalBombIndex":14,
+      "localBombIndex": -1,
+      "chocolateIndexes":[],
+      "time":-1,
+      "words":[
+          {
+            "word" : "SPITE",
+            "index" : 7,
+            "direction": 0
+           },
+           {
+            "word" : "SET",
+            "index" : 26,
+            "direction": 1
+           },
+          {
+            "word" : "SPIT",
+            "index" : 6,
+            "direction": 1
+           },
+           {
+            "word" : "PEST",
+            "index" : 24,
+            "direction": 0
+           },
+          {
+            "word" : "PET",
+            "index" : 38,
+            "direction": 0
+           },
+           {
+            "word" : "PIE",
+            "index" : 28,
+            "direction": 0
+           },
+          {
+            "word" : "TIP",
+            "index" : 10,
+            "direction": 1
+           },
+           {
+            "word" : "STEP",
+            "index" : 7,
+            "direction": 1
+           }
+          
+      ]
+    },
+    {
+      "questionId": 35,
+      "questionMatrix":"K,I,T,X,X,X,X,I,X,H,I,N,T,X,N,X,I,X,X,H,X,X,X,N,X,X,I,X,I,N,K,X,X,N,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
+      
+      "letters": "H,T,I,N,K",
+      "colorBombIndex" :9,
+      "verticalBombIndex":-1,
+      "horizontalBombIndex":19,
+      "localBombIndex": -1,
+      "chocolateIndexes":[],
+      "time":-1,
+      "words":[
+          {
+            "word" : "THINK",
+            "index" : 2,
+            "direction": 1
+           },
+           {
+            "word" : "KIT",
+            "index" :0,
+            "direction": 0
+           },
+           {
+            "word" : "KIN",
+            "index" : 0,
+            "direction": 1
+           },
+           {
+            "word" : "HINT",
+            "index" : 9,
+            "direction": 0
+           },
+           {
+            "word" : "THIN",
+            "index" : 12,
+            "direction": 1
+           },
+           {
+            "word" : "INK",
+            "index" : 28,
+            "direction": 0
+           },
+      ]
+    },
+    {
+      "questionId": 36,
+      "questionMatrix": "X,M,A,T,C,H,X,P,X,X,X,X,A,X,A,X,C,H,A,T,X,T,X,A,X,X,X,X,H,A,M,X,X,X,X,X,X,P,A,T,C,H,X,X,X,X,X,X,X",
+      
+      "letters": "P,A,H,T,M,C",
+      "colorBombIndex" : 28,
+      "verticalBombIndex" : 18,
+      "horizontalBombIndex" : 21,
+      "localBombIndex" : -1,
+      "chocolateIndexes":[],
+      "time":-1,
+      "words":[
+          {
+            "word" : "PATH",
+            "index" : 7,
+            "direction": 1
+           },
+           {
+            "word" : "MATCH",
+            "index" : 1,
+            "direction": 0
+           },
+           {
+            "word" : "PATCH",
+            "index" : 37,
+            "direction": 0
+           },
+           {
+            "word" : "HAT",
+            "index" : 5,
+            "direction": 1
+           },
+           {
+            "word" : "CAMP",
+            "index" : 16,
+            "direction": 1
+           },
+           {
+            "word" : "HAM",
+            "index" : 28,
+            "direction": 0
+           },
+           {
+            "word" : "CHAT",
+            "index" : 16,
+            "direction": 0
+           }
+      ]
+    },{
+      "questionId": 37,
+      "questionMatrix": "C,X,X,T,X,C,X,H,A,T,E,X,A,X,E,X,X,A,C,T,X,A,X,X,C,X,X,X,T,X,C,H,A,T,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
+      
+      "letters": "C,T,A,H,E",
+      "colorBombIndex" :10,
+      "verticalBombIndex":9,
+      "horizontalBombIndex":21,
+      "localBombIndex": -1,
+      "chocolateIndexes":[],
+      "time":-1,
+      "words":[
+          {
+            "word" : "CHEAT",
+            "index" : 0,
+            "direction": 1
+           },
+           {
+            "word" : "TEACH",
+            "index" : 3,
+            "direction": 1
+           },
+           {
+            "word" : "CHAT",
+            "index" : 30,
+            "direction": 0
+           },
+           {
+            "word" : "ACT",
+            "index" : 17,
+            "direction": 0
+           },
+           {
+            "word" : "CAT",
+            "index" : 5,
+            "direction": 1
+           },
+           {
+            "word" : "HATE",
+            "index" : 7,
+            "direction": 0
+           }
+      ]
+    },
+    {
+      "questionId": 38,
+      "questionMatrix": "H,X,X,S,H,O,T,O,X,X,O,X,X,H,S,H,O,U,T,X,U,T,X,X,T,X,X,S,X,X,S,H,U,T,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
+      
+      "letters": "S,O,U,H,T",
+      "colorBombIndex" :3,
+      "verticalBombIndex":32,
+      "horizontalBombIndex":7,
+      "localBombIndex": 17,
+      "chocolateIndexes":[],
+      "time":-1,
+      "words":[
+          {
+            "word" : "HOST",
+            "index" : 0,
+            "direction": 1
+           },
+           {
+            "word" : "SHOUT",
+            "index" : 14,
+            "direction": 0
+           },
+           {
+            "word" : "SOUTH",
+            "index" : 3,
+            "direction": 1
+           },
+           {
+            "word" : "THUS",
+            "index" : 6,
+            "direction": 1
+           },
+           {
+            "word" : "SHOT",
+            "index" : 3,
+            "direction": 0
+           },
+           {
+            "word" : "SHUT",
+            "index" : 30,
+            "direction": 0
+           }
+      ]
+    },{
+      "questionId": 39,
+      "questionMatrix": "X,A,X,L,O,G,X,X,L,X,O,X,O,X,L,O,A,N,X,A,X,X,N,X,G,X,L,X,X,G,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
+      
+      "letters": "L,O,N,A,G",
+      "colorBombIndex" :-1,
+      "verticalBombIndex":-1,
+      "horizontalBombIndex":10,
+      "localBombIndex": 15,
+      "chocolateIndexes":[],
+      "time":-1,
+      "words":[
+          {
+            "word" : "LOAN",
+            "index" : 14,
+            "direction": 0
+           },
+           {
+            "word" : "ALONG",
+            "index" : 1,
+            "direction": 1
+           },
+           {
+            "word" : "GOAL",
+            "index" : 5,
+            "direction": 1
+           },
+           {
+            "word" : "LONG",
+            "index" : 3,
+            "direction": 1
+           },
+           {
+            "word" : "LOG",
+            "index" : 3,
+            "direction": 0
+           }
+      ]
+    },
+    {
+      "questionId": 40,
+      "questionMatrix": "X,X,X,X,S,X,X,X,X,X,L,I,C,E,X,X,S,X,L,X,X,S,L,I,C,K,X,X,X,X,C,X,X,X,X,L,I,K,E,X,X,X,X,X,X,X,X,X,X",
+      
+      "letters": "S,L,C,I,E,K",
+      "colorBombIndex" :11,
+      "verticalBombIndex":38,
+      "horizontalBombIndex":-1,
+      "localBombIndex": 23,
+      "chocolateIndexes":[],
+      "time":-1,
+      "words":[
+          {
+            "word" : "SILK",
+            "index" : 4,
+            "direction": 1
+           },
+           {
+            "word" : "LICE",
+            "index" : 10,
+            "direction": 0
+           },
+           {
+            "word" : "SLICK",
+            "index" : 21,
+            "direction": 0
+           },
+           {
+            "word" : "SICK",
+            "index" : 16,
+            "direction": 1
+           },
+           {
+            "word" : "LIKE",
+            "index" : 35,
+            "direction": 0
+           }
+      ]
+    }
+  ]
+}
