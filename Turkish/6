@@ -9,6 +9,8 @@
       "verticalBombIndex":10,
       "horizontalBombIndex":15,
       "localBombIndex": 32,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "HAZİNE",
@@ -51,6 +53,8 @@
       "verticalBombIndex":10,
       "horizontalBombIndex":-1,
       "localBombIndex": 23,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "TEPE",
@@ -93,6 +97,8 @@
       "verticalBombIndex":31,
       "horizontalBombIndex":-1,
       "localBombIndex": 16,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "VAHA",
@@ -130,6 +136,8 @@
       "verticalBombIndex":26,
       "horizontalBombIndex":-1,
       "localBombIndex": 9,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "GEÇMEK",
@@ -163,7 +171,7 @@
       "verticalBombIndex":-1,
       "horizontalBombIndex":28,
       "localBombIndex": -1,
-      "chocolate":[40],
+      "chocolateIndexes":[40],
       "time":30,
       "words":[
           {
@@ -212,6 +220,8 @@
       "verticalBombIndex":-1,
       "horizontalBombIndex":17,
       "localBombIndex": 22,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "MERA",
@@ -248,6 +258,8 @@
       "verticalBombIndex":-1,
       "horizontalBombIndex":-1,
       "localBombIndex": 22,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "FORMA",
@@ -295,6 +307,8 @@
       "verticalBombIndex":-1,
       "horizontalBombIndex":-1,
       "localBombIndex": 11,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "MEYDAN",
@@ -331,6 +345,8 @@
       "verticalBombIndex":2,
       "horizontalBombIndex":13,
       "localBombIndex": -1,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "VALİ",
@@ -378,7 +394,7 @@
       "verticalBombIndex":10,
       "horizontalBombIndex":-1,
       "localBombIndex": -1,
-      "chocolate":[27],
+      "chocolateIndexes":[27],
       "time":30,
       "words":[
           {
