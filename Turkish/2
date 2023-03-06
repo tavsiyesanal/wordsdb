@@ -295,12 +295,7 @@
             "index" : 2,
             "direction": 1
            }
-           ,
-           {
-            "word" : "MEAL",
-            "index" : 37,
-            "direction": 0
-           }
+          
       ]
     },
     {
