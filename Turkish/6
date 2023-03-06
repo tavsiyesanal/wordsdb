@@ -124,6 +124,11 @@
             "word" : "ANA",
             "index" : 6,
             "direction": 1
+           },
+           {
+            "word" : "HAN",
+            "index" : 11,
+            "direction": 0
            }
       ]
     },
