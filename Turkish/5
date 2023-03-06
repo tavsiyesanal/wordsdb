@@ -134,7 +134,7 @@
             "index" : 8,
             "direction": 0
            },
-          
+           {
             "word" : "YANİ",
             "index" : 4,
             "direction": 1
@@ -262,7 +262,7 @@
       "questionId": 48,
       "questionMatrix": "K,A,R,X,X,X,K,A,X,X,K,E,Z,A,Z,A,R,X,R,X,R,X,R,X,X,Z,X,E,X,Z,E,K,A,X,X,X,X,X,X,K,E,Z,X,X,X,X,X,X,X",
       
-      "letters": K,Z,E,A,R",
+      "letters": "K,Z,E,A,R",
       "colorBombIndex" :32,
       "verticalBombIndex":2,
       "horizontalBombIndex":22,
