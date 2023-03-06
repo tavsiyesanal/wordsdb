@@ -94,8 +94,8 @@
 
        "letters": "B,E,N,I,G",
        "colorBombIndex" :-1,
-       "verticalBombIndex":18,
-       "horizontalBombIndex":-1,
+       "verticalBombIndex":-1,
+       "horizontalBombIndex":18,
        "localBombIndex": 9,
        "chocolateIndexes":[],
        "time":-1,
