@@ -9,6 +9,8 @@
       "verticalBombIndex":32,
       "horizontalBombIndex":-1,
       "localBombIndex": 16,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "ACNE",
@@ -51,6 +53,8 @@
       "verticalBombIndex":-1,
       "horizontalBombIndex":21,
       "localBombIndex": -1,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "PAR",
@@ -98,6 +102,8 @@
       "verticalBombIndex":4,
       "horizontalBombIndex":24,
       "localBombIndex": 17,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "DIE",
@@ -141,6 +147,8 @@
       "verticalBombIndex":11,
       "horizontalBombIndex":14,
       "localBombIndex": -1,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "SPITE",
@@ -194,6 +202,8 @@
       "verticalBombIndex":-1,
       "horizontalBombIndex":19,
       "localBombIndex": -1,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "THINK",
@@ -236,6 +246,8 @@
       "verticalBombIndex" : 18,
       "horizontalBombIndex" : 21,
       "localBombIndex" : -1,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "PATH",
@@ -282,6 +294,8 @@
       "verticalBombIndex":9,
       "horizontalBombIndex":21,
       "localBombIndex": -1,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "CHEAT",
@@ -324,6 +338,8 @@
       "verticalBombIndex":32,
       "horizontalBombIndex":7,
       "localBombIndex": 17,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "HOST",
@@ -365,6 +381,8 @@
       "verticalBombIndex":-1,
       "horizontalBombIndex":10,
       "localBombIndex": 15,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "LOAN",
@@ -402,6 +420,8 @@
       "verticalBombIndex":38,
       "horizontalBombIndex":-1,
       "localBombIndex": 23,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "SILK",
