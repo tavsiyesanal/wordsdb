@@ -2,7 +2,7 @@
   "questions": [
     {
       "questionId": 31,
-      "questionMatrix":"X,X,X,X,X,S,X,X,S,A,N,D,A,L,X,X,S,X,X,N,X,N,A ,L,X,X,A,X,X,X,A,S,A ,L,X,X,X,N,X,X,X,X,X,X,X,X,X,X,X",
+      "questionMatrix":"X,X,X,X,X,S,X,X,S,A,N,D,A,L,X,X,S,X,X,N,X,N,A,L,X,X,A,X,X,X,A,S,A,L,X,X,X,N,X,X,X,X,X,X,X,X,X,X,X",
       
       "letters": "A,N,S,D,A,L",
       "colorBombIndex" :12,
