@@ -48,7 +48,7 @@
       "questionId": 82,
       "questionMatrix": "A,X,A,X,X,X,X,R,X,T,X,X,A,X,A,Z,A,T,X,R,X,X,A,X,X,X,A,X,X,T,A,R,A,Z,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
       
-      "letters": Z,T,A,R,A",
+      "letters": "Z,T,A,R,A",
       "colorBombIndex" :14,
       "verticalBombIndex":-1,
       "horizontalBombIndex":26,
