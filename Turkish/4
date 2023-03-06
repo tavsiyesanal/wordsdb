@@ -135,7 +135,7 @@
             "index" : 10,
             "direction": 1
            },
-          
+          {
             "word" : "ERİK",
             "index" : 35,
             "direction": 0
@@ -189,7 +189,7 @@
             "word" : "İZ",
             "index" : 19,
             "direction": 0
-           },
+           }
       ]
     },
     {
