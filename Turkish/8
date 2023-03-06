@@ -9,6 +9,8 @@
       "verticalBombIndex":17,
       "horizontalBombIndex":23,
       "localBombIndex": 16,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "DEVLET",
@@ -51,6 +53,8 @@
       "verticalBombIndex":33,
       "horizontalBombIndex":-1,
       "localBombIndex": 8,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "KISIR",
@@ -127,6 +131,8 @@
       "verticalBombIndex":-1,
       "horizontalBombIndex":16,
       "localBombIndex": -1,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "YAPIT",
@@ -175,7 +181,7 @@
       "verticalBombIndex":-1,
       "horizontalBombIndex":13,
       "localBombIndex": 15,
-      "chocolate":[],
+      "chocolateIndexes":[],
       "time":-1,
       "words":[
           {
@@ -224,6 +230,8 @@
       "verticalBombIndex":-1,
       "horizontalBombIndex":22,
       "localBombIndex": -1,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "SENE",
@@ -265,6 +273,8 @@
       "verticalBombIndex":2,
       "horizontalBombIndex":19,
       "localBombIndex": -1,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "TESPİH",
@@ -307,6 +317,8 @@
       "verticalBombIndex":-1,
       "horizontalBombIndex":16,
       "localBombIndex": 11,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "YALNIZ",
@@ -343,6 +355,8 @@
       "verticalBombIndex":-1,
       "horizontalBombIndex":27,
       "localBombIndex": -1,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "HASTA",
