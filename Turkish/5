@@ -9,6 +9,8 @@
       "verticalBombIndex":-1,
       "horizontalBombIndex":15,
       "localBombIndex": 10,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "DÖNEK",
@@ -41,6 +43,8 @@
       "verticalBombIndex":10,
       "horizontalBombIndex":16,
       "localBombIndex": 23,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "TABELA",
@@ -83,6 +87,8 @@
       "verticalBombIndex":12,
       "horizontalBombIndex":-1,
       "localBombIndex": 31,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "İTAAT",
@@ -115,6 +121,8 @@
       "verticalBombIndex":10,
       "horizontalBombIndex":-1,
       "localBombIndex": 9,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "YABANİ",
@@ -148,7 +156,7 @@
       "verticalBombIndex":-1,
       "horizontalBombIndex":11,
       "localBombIndex": 11,
-      "chocolate":[37],
+      "chocolateIndexes":[37],
       "time":25,
       "words":[
           {
@@ -182,6 +190,8 @@
       "verticalBombIndex":-1,
       "horizontalBombIndex":24,
       "localBombIndex": -1,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "ASKER",
@@ -213,6 +223,8 @@
       "verticalBombIndex":-1,
       "horizontalBombIndex":-1,
       "localBombIndex": 24,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
            {
             "word" : "AKIL",
@@ -255,6 +267,8 @@
       "verticalBombIndex":2,
       "horizontalBombIndex":22,
       "localBombIndex": -1,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "KAR",
@@ -311,6 +325,8 @@
       "verticalBombIndex":-1,
       "horizontalBombIndex":15,
       "localBombIndex": 10,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "KİLİM",
@@ -343,7 +359,7 @@
       "verticalBombIndex":-1,
       "horizontalBombIndex":16,
       "localBombIndex": -1,
-      "chocolate":[25],
+      "chocolateIndexes":[25],
       "time":15,
       "words":[
           {
