@@ -277,6 +277,11 @@
             "word" : "MİRAS",
             "index" : 8,
             "direction": 0
+           },
+           {
+            "word" : "AR",
+            "index" : 3,
+            "direction": 1
            }
       ]
     },{
