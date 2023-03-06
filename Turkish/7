@@ -9,6 +9,8 @@
       "verticalBombIndex":4,
       "horizontalBombIndex":14,
       "localBombIndex": 24,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "GRAM",
@@ -56,6 +58,8 @@
       "verticalBombIndex":16,
       "horizontalBombIndex":10,
       "localBombIndex": -1,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "ARI",
@@ -103,6 +107,8 @@
       "verticalBombIndex":-1,
       "horizontalBombIndex":23,
       "localBombIndex": 16,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "DALGIÇ",
@@ -150,6 +156,8 @@
       "verticalBombIndex":10,
       "horizontalBombIndex":16,
       "localBombIndex": 12,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "ALO",
@@ -198,7 +206,7 @@
       "verticalBombIndex":37,
       "horizontalBombIndex":7,
       "localBombIndex": -1,
-      "chocolate":[],
+      "chocolateIndexes":[],
       "time":-1,
       "words":[
           {
@@ -252,6 +260,8 @@
       "verticalBombIndex":2,
       "horizontalBombIndex":17,
       "localBombIndex": 22,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "KAYA",
@@ -298,6 +308,8 @@
       "verticalBombIndex":3,
       "horizontalBombIndex":-1,
       "localBombIndex": -1,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "DARI",
@@ -340,6 +352,8 @@
       "verticalBombIndex":-1,
       "horizontalBombIndex":14,
       "localBombIndex": -1,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "KENT",
@@ -376,6 +390,8 @@
       "verticalBombIndex":16,
       "horizontalBombIndex":8,
       "localBombIndex": 18,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "KEKLİK",
@@ -423,7 +439,7 @@
       "verticalBombIndex":9,
       "horizontalBombIndex":21,
       "localBombIndex": 19,
-      "chocolate":[],
+      "chocolateIndexes":[],
       "time":-1,
       "words":[
           {
