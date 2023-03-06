@@ -169,7 +169,7 @@
             "index" : 2,
             "direction": 1
            },
-          
+          {
             "word" : "VOKAL",
             "index" : 9,
             "direction": 0
@@ -347,7 +347,7 @@
       "questionId": 58,
       "questionMatrix": "K,X,X,X,E,X,X,E,X,K,E,T,E,N,N,X,X,X,K,X,X,T,E,K,N,E,X,X,X,X,X,X,N,E,T,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
       
-      "letters": K,E,T,N,E",
+      "letters": "K,E,T,N,E",
       "colorBombIndex" :11,
       "verticalBombIndex":-1,
       "horizontalBombIndex":14,
