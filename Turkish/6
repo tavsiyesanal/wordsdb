@@ -46,7 +46,7 @@
     },
     {
       "questionId": 52,
-      "questionMatrix": "X,X,X,X,P,E,K,X,T,E,K,E,X,X,X,X,T,X,T,E ,K,X,T,E,P,E,X,E,X,X,K,X,K,X,P,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
+      "questionMatrix": "X,X,X,X,P,E,K,X,K,E,T,E,X,X,X,X,T,X,T,E,K,X,T,E,P,E,X,E,X,X,K,X,K,X,P,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
       
       "letters": "T,E,K,P,E",
       "colorBombIndex" :18,
@@ -82,7 +82,7 @@
             "direction": 0
            },
            {
-            "word" : "TEKE",
+            "word" : "KETE",
             "index" : 8,
             "direction": 0
            }
