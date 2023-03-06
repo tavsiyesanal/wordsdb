@@ -225,7 +225,7 @@
       "questionId": 76,
       "questionMatrix": "S,E,N,E,X,X,X,X,S,X,X,X,S,X,X,A,X,S,X,E,N,X,N,X,E,X,A,X,E,S,A,S,E,N,X,X,X,X,X,X,S,X,X,X,X,X,X,X,X",
       
-      "letters": "K,Y,K,Y,A,A",
+      "letters": "E,S,N,A,S,E",
       "colorBombIndex" :1,
       "verticalBombIndex":-1,
       "horizontalBombIndex":22,
