@@ -149,7 +149,7 @@
             "index" : 2,
             "direction": 1
            },
-          
+          {
             "word" : "EMEK",
             "index" : 23,
             "direction": 0
@@ -302,7 +302,7 @@
       "questionId": 58,
       "questionMatrix": "X,X,M,X,E,X,X,X,M,E,Y,D,A,N,X,X,D,X,A,X,E,X,X,Y,X,X,X,M,X,N,A,M,E,X,A,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
       
-      "letters": D,E,M,Y,A,N",
+      "letters": "D,E,M,Y,A,N",
       "colorBombIndex" :-1,
       "verticalBombIndex":-1,
       "horizontalBombIndex":-1,
