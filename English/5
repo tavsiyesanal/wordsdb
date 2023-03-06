@@ -9,6 +9,8 @@
       "verticalBombIndex":-1,
       "horizontalBombIndex":8,
       "localBombIndex": 17,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "RATE",
@@ -46,6 +48,8 @@
       "verticalBombIndex":-1,
       "horizontalBombIndex":18,
       "localBombIndex": -1,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "HIT",
@@ -83,6 +87,8 @@
       "verticalBombIndex":38,
       "horizontalBombIndex":7,
       "localBombIndex": 18,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "LEAST",
@@ -126,6 +132,8 @@
       "verticalBombIndex":-1,
       "horizontalBombIndex":7,
       "localBombIndex": -1,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "RAIL",
@@ -168,6 +176,8 @@
       "verticalBombIndex":-1,
       "horizontalBombIndex":-1,
       "localBombIndex": 18,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "REAL",
@@ -205,6 +215,8 @@
       "verticalBombIndex" : 5,
       "horizontalBombIndex" : -1,
       "localBombIndex" : 18,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "PIE",
@@ -251,6 +263,8 @@
       "verticalBombIndex":9,
       "horizontalBombIndex":21,
       "localBombIndex": -1,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "CHEAT",
@@ -293,6 +307,8 @@
       "verticalBombIndex":-1,
       "horizontalBombIndex":9,
       "localBombIndex": 16,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "TEST",
@@ -334,6 +350,8 @@
       "verticalBombIndex":-1,
       "horizontalBombIndex":15,
       "localBombIndex": -1,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "BELOW",
@@ -376,6 +394,8 @@
       "verticalBombIndex":-1,
       "horizontalBombIndex":-1,
       "localBombIndex": -1,
+      "chocolateIndexes":[],
+      "time":-1,
       "words":[
           {
             "word" : "STATE",
