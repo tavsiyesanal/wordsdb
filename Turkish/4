@@ -127,23 +127,23 @@
       "words":[
           {
             "word" : "TEKER",
-            "index" : 8,
+            "index" : 15,
             "direction": 0
            },
            {
             "word" : "TEKİR",
-            "index" : 10,
+            "index" : 9,
             "direction": 1
            },
           {
             "word" : "ERİK",
-            "index" : 35,
-            "direction": 0
+            "index" : 18,
+            "direction": 1
            },
            {
-            "word" : "ETEK",
-            "index" : 11,
-            "direction": 1
+            "word" : "İRİ",
+            "index" : 30,
+            "direction": 0
            }
           
       ]
