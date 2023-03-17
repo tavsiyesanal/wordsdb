@@ -1,7 +1,51 @@
 {
   "questions": [
-    {
+      {
       "questionId": 1,
+      "questionMatrix": "X,X,X,X,X,X,X,X,X,K,X,K,X,X,X,K,A,Z,I,K,X,X,X,Z,X,Z,X,K,A,Z,I,X,A,X,I,X,X,X,X,K,A,Z,X,X,X,X,X,X,X",
+      
+      "letters": "K,A,K,Z,I",
+      "colorBombIndex" :-1,
+      "verticalBombIndex":-1,
+      "horizontalBombIndex":-1,
+      "localBombIndex": -1,
+      "chocolateIndexes":[],
+      "time":-1,
+      "words":[
+          {
+            "word" : "KAZI",
+            "index" : 9,
+            "direction": 1
+           },
+           {
+            "word" : "KAZIK",
+            "index" : 15,
+            "direction": 0
+           },
+           {
+            "word" : "AZI",
+            "index" : 28,
+            "direction": 0
+           },
+           {
+            "word" : "KIZAK",
+            "index" : 11,
+            "direction": 1
+           },
+           {
+            "word" : "KAZ",
+            "index" : 39,
+            "direction": 0
+           },
+           {
+            "word" : "KIZ",
+            "index" : 27,
+            "direction": 1
+           }
+      ]
+    },
+    {
+      "questionId": 2,
       "questionMatrix": "X,X,X,X,X,X,X,X,X,X,X,S,X,X,X,K,A,S,E,X,X,X,A,X,X,L,X,X,X,L,X,K,A,S,X,X,E,X,X,X,X,X,X,X,X,X,X,X,X",
       
       "letters": "L,K,A,S,E",
@@ -35,7 +79,7 @@
       ]
     },
     {
-      "questionId": 2,
+      "questionId": 3,
       "questionMatrix": "X,X,X,X,X,X,X,X,X,X,X,X,A,X,X,B,A,L,I,K,X,X,X,K,X,X,I,X,X,K,I,L,X,X,X,X,X,L,X,X,X,X,X,X,X,X,X,X,X",
       
       "letters": "A,B,K,I,L",
@@ -69,7 +113,7 @@
       ]
     },
     {
-      "questionId": 3,
+      "questionId": 4,
       "questionMatrix": "X,X,X,X,X,X,X,X,X,X,O,X,X,X,X,X,X,R,X,O,X,X,R,O,M,A,N,X,X,X,X,A,X,A,X,X,X,X,N,A,R,X,X,X,X,X,X,X,X",
       
       "letters": "R,O,N,A,M",
@@ -103,7 +147,7 @@
       ]
     },
     {
-      "questionId": 4,
+      "questionId": 5,
       "questionMatrix": "X,X,X,X,X,X,X,X,Y,A,K,I,T,X,X,X,T,X,X,A,X,X,X,I,X,X,K,X,X,X,K,A,T,I,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
       
       "letters": "Y,A,T,I,K",
@@ -132,50 +176,6 @@
            {
             "word" : "TAKI",
             "index" : 12,
-            "direction": 1
-           }
-      ]
-    },
-    {
-      "questionId": 5,
-      "questionMatrix": "X,X,X,X,X,X,X,X,X,K,X,K,X,X,X,K,A,Z,I,K,X,X,X,Z,X,Z,X,K,A,Z,I,X,A,X,I,X,X,X,X,K,A,Z,X,X,X,X,X,X,X",
-      
-      "letters": "K,A,K,Z,I",
-      "colorBombIndex" :18,
-      "verticalBombIndex":-1,
-      "horizontalBombIndex":23,
-      "localBombIndex": -1,
-      "chocolateIndexes":[],
-      "time":-1,
-      "words":[
-          {
-            "word" : "KAZI",
-            "index" : 9,
-            "direction": 1
-           },
-           {
-            "word" : "KAZIK",
-            "index" : 15,
-            "direction": 0
-           },
-           {
-            "word" : "AZI",
-            "index" : 28,
-            "direction": 0
-           },
-           {
-            "word" : "KIZAK",
-            "index" : 11,
-            "direction": 1
-           },
-           {
-            "word" : "KAZ",
-            "index" : 39,
-            "direction": 0
-           },
-           {
-            "word" : "KIZ",
-            "index" : 27,
             "direction": 1
            }
       ]
