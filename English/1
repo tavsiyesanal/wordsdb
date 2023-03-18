@@ -2,6 +2,40 @@
   "questions": [
     {
       "questionId": 1,
+      "questionMatrix": "X,X,X,B,A,R,K,X,X,X,R,X,X,X,X,X,B,E,A,R,X,X,X,X,A,X,X,X,X,B,A,K,E,R,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
+      
+      "letters": "B,E,R,A,K",
+      "colorBombIndex" :-1,
+      "verticalBombIndex":-1,
+      "horizontalBombIndex":-1,
+      "localBombIndex": -1,
+      "chocolateIndexes":[],
+      "time":-1,
+      "words":[
+          {
+            "word" : "BREAK",
+            "index" : 3,
+            "direction": 1
+           },
+           {
+            "word" : "BEAR",
+            "index" : 16,
+            "direction": 0
+           },
+           {
+            "word" : "BARK",
+            "index" : 3,
+            "direction": 0
+           },
+           {
+            "word" : "BAKER",
+            "index" : 29,
+            "direction": 0
+           }
+      ]
+    },
+    {
+      "questionId": 2,
       "questionMatrix": "X,X,X,X,D,X,X,X,S,W,O,R,D,X,X,X,O,X,O,X,X,X,X,R,O,W,X,X,X,X,D ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
       
       "letters": "S,D,O,W,R",
@@ -35,7 +69,7 @@
       ]
     },
     {
-      "questionId": 2,
+      "questionId": 3,
       "questionMatrix": "X,X,T,X,X,X,X,X,P,R,I,N,T,X,X,X,I,X,X,I,X,X,X,P,X,X,P,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
       
       "letters": "P,T,N,R,I",
@@ -64,7 +98,7 @@
       ]
     },
     {
-      "questionId": 3,
+      "questionId": 4,
       "questionMatrix": "X,X,X,H,X,P,X,X,P,H,O,N,E,X,X,X,X,P,X,N,X,X,O,P,E,N,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
       
       "letters": "P,H,O,E,N",
@@ -98,7 +132,7 @@
       ]
     },
     {
-      "questionId": 4,
+      "questionId": 5,
       "questionMatrix": "X,X,A,X,X,X,X,X,A,N,G,L,E,X,X,X,G,X,E,X,X,X,X,E,X,A,G,E,X,X,L,X,N,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
       
       "letters": "A,E,N,G,L",
@@ -127,40 +161,6 @@
            {
             "word" : "AGE",
             "index" : 25,
-            "direction": 0
-           }
-      ]
-    },
-    {
-      "questionId": 5,
-      "questionMatrix": "X,X,X,B,A,R,K,X,X,X,R,X,X,X,X,X,B,E,A,R,X,X,X,X,A,X,X,X,X,B,A,K,E,R,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
-      
-      "letters": "B,E,R,A,K",
-      "colorBombIndex" :3,
-      "verticalBombIndex":19,
-      "horizontalBombIndex":-1,
-      "localBombIndex": -1,
-      "chocolateIndexes":[],
-      "time":-1,
-      "words":[
-          {
-            "word" : "BREAK",
-            "index" : 3,
-            "direction": 1
-           },
-           {
-            "word" : "BEAR",
-            "index" : 16,
-            "direction": 0
-           },
-           {
-            "word" : "BARK",
-            "index" : 3,
-            "direction": 0
-           },
-           {
-            "word" : "BAKER",
-            "index" : 29,
             "direction": 0
            }
       ]
