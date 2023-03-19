@@ -5,10 +5,10 @@
       "questionMatrix": "X,X,D,X,X,X,X,X,G,A,R,D,E,N,X,X,N,X,X,X,X,X,X,G,R,A,N,D,A,G,E,X,X,X,X,X,X,R,A,N,G,E,X,X,X,X,X,X,X",
       
       "letters": "G,R,A,D,N,E",
-      "colorBombIndex" :9,
-      "verticalBombIndex":11,
+      "colorBombIndex" :23,
+      "verticalBombIndex":25,
       "horizontalBombIndex":-1,
-      "localBombIndex": -1,
+      "localBombIndex": 9,
       "chocolateIndexes":[],
       "time":-1,
       "words":[
