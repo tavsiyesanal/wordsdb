@@ -5,10 +5,10 @@
       "questionMatrix":"X,D,E,V,X,X,X,X,X,V,X,T,E,L,X,D,E,V,E,X,X,X,X,T,X,L,X,X,X,X,X,X,V,X,X,D,E,V,L,E,T,X,X,X,X,X,X,X,X",
       
       "letters": "E,E,T,V,L,D",
-      "colorBombIndex" :11,
-      "verticalBombIndex":17,
-      "horizontalBombIndex":23,
-      "localBombIndex": 16,
+      "colorBombIndex" :[11],
+      "verticalBombIndex":[17],
+      "horizontalBombIndex":[23],
+      "localBombIndex": [16],
       "chocolateIndexes":[],
       "time":-1,
       "words":[
@@ -49,10 +49,10 @@
       "questionMatrix": "X,S,X,X,K,X,X,S,I,R,X,I,X,X,X,R,X,X,S,I,K,X,I,X,X,I,X,X,X,K,I,B,R,I,S,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
       
       "letters": "K,I,I,S,R,B",
-      "colorBombIndex" :-1,
-      "verticalBombIndex":33,
-      "horizontalBombIndex":-1,
-      "localBombIndex": 8,
+      "colorBombIndex" :[-1],
+      "verticalBombIndex":[33],
+      "horizontalBombIndex":[-1],
+      "localBombIndex": [8],
       "chocolateIndexes":[],
       "time":-1,
       "words":[
@@ -88,10 +88,10 @@
       "questionMatrix":"X,X,X,X,X,S,X,X,S,A,N,D,A,L,X,X,S,X,X,N,X,N,A,L,X,X,A,X,X,X,A,S,A,L,X,X,X,N,X,X,X,X,X,X,X,X,X,X,X",
       
       "letters": "A,N,S,D,A,L",
-      "colorBombIndex" :12,
-      "verticalBombIndex":-1,
-      "horizontalBombIndex":23,
-      "localBombIndex": -1,
+      "colorBombIndex" :[12],
+      "verticalBombIndex":[-1],
+      "horizontalBombIndex":[23],
+      "localBombIndex": [-1],
       "chocolateIndexes":[],
       "time":-1,
       "words":[
@@ -127,10 +127,10 @@
       "questionMatrix": "X,Y,A,P,I,T,X,X,X,Y,X,X,I,X,X,X,I,X,X,P,X,T,I,P,X,Y,A,P,X,X,X,X,A,X,A,X,X,X,X,T,X,Y,X,X,X,X,X,X,X",
       
       "letters": "P,T,A,Y,I",
-      "colorBombIndex" :5,
-      "verticalBombIndex":-1,
-      "horizontalBombIndex":16,
-      "localBombIndex": -1,
+      "colorBombIndex" :[5],
+      "verticalBombIndex":[-1],
+      "horizontalBombIndex":[16],
+      "localBombIndex": [-1],
       "chocolateIndexes":[],
       "time":-1,
       "words":[
@@ -177,10 +177,10 @@
       "questionMatrix":"X,X,X,O,M,U,R,G,R,A,M,X,X,X,A,X,X,U,X,X,X,R,X,X,R,O,M,A,X,O,R,G,X,O,X,X,X,X,A,X,R,X,X,X,X,X,X,X,X",
       
       "letters": "R,O,M,G,U,A",
-      "colorBombIndex" :8,
-      "verticalBombIndex":4,
-      "horizontalBombIndex":14,
-      "localBombIndex": 24,
+      "colorBombIndex" :[8],
+      "verticalBombIndex":[4],
+      "horizontalBombIndex":[14],
+      "localBombIndex": [24],
       "chocolateIndexes":[],
       "time":-1,
       "words":[
@@ -226,10 +226,10 @@
       "questionMatrix": "S,E,N,E,X,X,X,X,S,X,X,X,S,X,X,A,X,S,X,E,N,X,N,X,E,X,A,X,E,S,A,S,E,N,X,X,X,X,X,X,S,X,X,X,X,X,X,X,X",
       
       "letters": "E,S,N,A,S,E",
-      "colorBombIndex" :1,
-      "verticalBombIndex":-1,
-      "horizontalBombIndex":22,
-      "localBombIndex": -1,
+      "colorBombIndex" :[1],
+      "verticalBombIndex":[-1],
+      "horizontalBombIndex":[22],
+      "localBombIndex": [-1],
       "chocolateIndexes":[],
       "time":-1,
       "words":[
@@ -269,10 +269,10 @@
       "questionMatrix": "T,E,S,P,İ,H,X,X,X,X,İ,X,İ,X,X,X,X,S,X,S,X,X,S,İ,T,E,X,X,X,E,X,X,X,X,X,X,T,E,P,S,İ,X,X,X,X,X,X,X,X",
       
       "letters": "T,E,İ,H,S,P",
-      "colorBombIndex" :3,
-      "verticalBombIndex":2,
-      "horizontalBombIndex":19,
-      "localBombIndex": -1,
+      "colorBombIndex" :[3],
+      "verticalBombIndex":[2],
+      "horizontalBombIndex":[19],
+      "localBombIndex": [-1],
       "chocolateIndexes":[],
       "time":-1,
       "words":[
@@ -313,10 +313,10 @@
       "questionMatrix": "X,X,N,X,Y,X,X,X,X,A,X,A,N,I,A,X,Z,X,L,X,X,Y,A,L,N,I,Z,X,X,X,I,X,N,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X",
       
       "letters": "Y,L,N,A,Z,I",
-      "colorBombIndex" :9,
-      "verticalBombIndex":-1,
-      "horizontalBombIndex":16,
-      "localBombIndex": 11,
+      "colorBombIndex" :[9],
+      "verticalBombIndex":[-1],
+      "horizontalBombIndex":[16],
+      "localBombIndex": [11],
       "chocolateIndexes":[],
       "time":-1,
       "words":[
@@ -351,10 +351,10 @@
       "questionMatrix": "X,X,X,X,T,X,H,S,X,X,X,A,S,A,A,X,H,A,S,X,S,H,X,A,X,X,X,T,A,S,T,X,X,X,A,X,X,A,X,X,X,X,X,X,X,X,X,X,X",
       
       "letters": "H,S,A,T,A",
-      "colorBombIndex" :13,
-      "verticalBombIndex":-1,
-      "horizontalBombIndex":27,
-      "localBombIndex": -1,
+      "colorBombIndex" :[13],
+      "verticalBombIndex":[-1],
+      "horizontalBombIndex":[27],
+      "localBombIndex": [-1],
       "chocolateIndexes":[],
       "time":-1,
       "words":[
@@ -399,10 +399,10 @@
       "questionMatrix": "X,X,K,X,X,X,X,X,K,A,S,K,E,T,X,X,S,X,X,X,A,X,K,E,K,X,X,K,X,X,T,X,X,X,K,X,X,X,X,X,X,E,X,X,X,X,X,X,X",
       
       "letters": "K,E,T,S,A,K",
-      "colorBombIndex" :23,
-      "verticalBombIndex":-1,
-      "horizontalBombIndex":9,
-      "localBombIndex": -1,
+      "colorBombIndex" :[23],
+      "verticalBombIndex":[-1],
+      "horizontalBombIndex":[9],
+      "localBombIndex": [-1],
       "chocolateIndexes":[],
       "time":-1,
       "words":[
