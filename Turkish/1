@@ -50,7 +50,7 @@
       
       "letters": "L,K,A,S,E",
       "colorBombIndex" :[-1],
-      "verticalBombIndex":[17],
+      "verticalBombIndex":[17,18],
       "horizontalBombIndex":[-1],
       "localBombIndex": [-1],
       "chocolateIndexes":[],
