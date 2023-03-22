@@ -115,7 +115,7 @@
     },
     {
     "questionId": 34,
-      "questionMatrix": "X,X,X,X,X,X,X,X,X,T,X,X,X,X,X,T,E,K,E,R,X,X,X,K,X,R,X,X,X,X,İ,R,İ,X,X,X,X,R,X,K,X,X,X,X,X,X,X,X,X",
+      "questionMatrix": "X,X,X,X,X,X,X,X,X,T,X,X,X,X,X,T,E,K,E,R,X,X,X,K,X,R,X,X,X,X,İ,X,İ,X,X,X,X,R,X,K,X,X,X,X,X,X,X,X,X",
       
       "letters": "T,E,R,İ,K,E",
       "colorBombIndex" :[-1],
@@ -139,13 +139,7 @@
             "word" : "ERİK",
             "index" : 18,
             "direction": 1
-           },
-           {
-            "word" : "İRİ",
-            "index" : 30,
-            "direction": 0
            }
-          
       ]
     },
     {
